@@ -1,0 +1,1225 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Validate Swedish Personal Identity Number (personnummer / SSN)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-10T23:07:41Z",
+                "owner": "personnummer",
+                "repo": "js",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ".NET (C# / F#)",
+              "description": "(Also parses and normalizes the Personal Identity Number)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "F#",
+                "last_commit": "2026-04-10T10:44:31Z",
+                "owner": "ActiveLogin",
+                "repo": "ActiveLogin.Identity",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PHP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "PHP",
+                "last_commit": "2026-08-11T23:07:04Z",
+                "owner": "personnummer",
+                "repo": "php",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ruby",
+              "description": "(well tested)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2020-03-01T11:05:32Z",
+                "owner": "c7",
+                "repo": "personnummer",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PHP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "PHP",
+                "last_commit": "2021-01-03T22:47:48Z",
+                "owner": "byrokrat",
+                "repo": "id",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-21T08:13:59Z",
+                "owner": "personnummer",
+                "repo": "python",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Java",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-08-07T13:02:17Z",
+                "owner": "personnummer",
+                "repo": "java",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-07-16T06:14:39Z",
+                "owner": "personnummer",
+                "repo": "go",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ruby",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2026-06-19T12:10:13Z",
+                "owner": "personnummer",
+                "repo": "ruby",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swift",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Swift",
+                "last_commit": "2026-07-12T18:48:31Z",
+                "owner": "personnummer",
+                "repo": "swift",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-04-07T12:44:51Z",
+                "owner": "arokor",
+                "repo": "pernr",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-03-02T07:44:41Z",
+                "owner": "svenheden",
+                "repo": "swedish-personal-identity-number-validator",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2022-03-22T07:02:22Z",
+                "owner": "bombsimon",
+                "repo": "go-personnummer",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Statens personadressregister",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-06-05T23:17:41Z",
+                "owner": "Yepstr",
+                "repo": "node-statenspersonadressregister",
+                "stars": 1
+              }
+            }
+          ]
+        }
+      ],
+      "title": "People"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Swish Merchant API",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": "Not actively being maintained.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2023-01-03T22:45:09Z",
+                "owner": "carlbarrdahl",
+                "repo": "swish-payments",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rust",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2018-12-02T19:09:55Z",
+                "owner": "drager",
+                "repo": "swish",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2024-08-21T15:44:08Z",
+                "owner": "frozzare",
+                "repo": "go-swish",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Validate Swedish bank accounts",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ruby",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2026-06-24T11:22:53Z",
+                "owner": "barsoom",
+                "repo": "banktools-se",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-12-15T11:41:20Z",
+                "owner": "brocc-ab",
+                "repo": "se-bank-account-js",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PHP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "PHP",
+                "last_commit": "2023-12-15T11:43:56Z",
+                "owner": "brocc-ab",
+                "repo": "se-bank-account-php",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Make BGC supplier payment files (a.k.a \"leverantörsbetalningar\")",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ruby",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2026-06-23T06:44:35Z",
+                "owner": "barsoom",
+                "repo": "supplier_payments",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Payments using DebiTech (DIBS)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ruby",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Ruby",
+                "last_commit": "2022-01-28T09:37:47Z",
+                "owner": "barsoom",
+                "repo": "debitech",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Parse and generate SIE-files (open format for accounting data)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ruby",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2026-06-22T14:06:00Z",
+                "owner": "barsoom",
+                "repo": "sie",
+                "stars": 17
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Retrieve interest and exchange rates from the Swedish central bank",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Go",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2020-11-25T09:44:04Z",
+                "owner": "zeevallin",
+                "repo": "riksbank",
+                "stars": 5
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Finance"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Authentication using BankID",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": ".NET (C# / F#)",
+              "description": "(With authentication handler for ASP.NET)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2026-07-29T09:48:02Z",
+                "owner": "ActiveLogin",
+                "repo": "ActiveLogin.Authentication",
+                "stars": 240
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": "by Anyfin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-07-20T17:53:00Z",
+                "owner": "anyfin",
+                "repo": "bankid",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Android",
+              "description": "(Sample implementation)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Kotlin",
+                "last_commit": "2019-01-30T13:50:17Z",
+                "owner": "spacecowboy",
+                "repo": "bankid-android-sample",
+                "stars": 5
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Authentication using GrandID (Svensk E-Identitet)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": ".NET (C# / F#)",
+              "description": "(With authentication handler for ASP.NET)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2026-07-29T09:48:02Z",
+                "owner": "ActiveLogin",
+                "repo": "ActiveLogin.Authentication",
+                "stars": 240
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Authentication"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Build a feed for Metrojobb",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ruby",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2023-11-01T04:41:02Z",
+                "owner": "buren",
+                "repo": "metrojobb",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Arbetsförmedlingen API",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ruby",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2023-07-01T04:08:07Z",
+                "owner": "buren",
+                "repo": "arbetsformedlingen",
+                "stars": 10
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Post jobs to Arbetsförmedlingen",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ruby",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2023-07-01T04:08:07Z",
+                "owner": "buren",
+                "repo": "arbetsformedlingen",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-03-19T14:09:34Z",
+                "owner": "othermachines",
+                "repo": "platsbanken-vacancy",
+                "stars": 1
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Job market"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "SL API",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": ":warning: No commits in years",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CoffeeScript",
+                "last_commit": "2017-07-01T19:27:19Z",
+                "owner": "simon-johansson",
+                "repo": "SL-api",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Javascript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2022-08-02T21:27:12Z",
+                "owner": "rebelliard",
+                "repo": "stockholm-transit-api",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2017-12-19T09:57:29Z",
+                "owner": "frozzare",
+                "repo": "go-sl",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Västtrafik API",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2013-02-21T21:51:01Z",
+                "owner": "oskarhagberg",
+                "repo": "node-vasttrafik",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Trafikverket API",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-12-11T08:06:14Z",
+                "owner": "eduardoportilho",
+                "repo": "trafikverket",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Bilvision API (car register service a.k.a \"Bilregistertjänst\")",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ruby",
+              "description": null,
+              "children": []
+            }
+          ]
+        }
+      ],
+      "title": "Transportation"
+    },
+    {
+      "description": ":information_source: see the transportation section for regional transportation.",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Stockholm API",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-08-01T04:51:47Z",
+                "owner": "buren",
+                "repo": "stockholm-api",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Göteborg (Gothenburg) API",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2012-06-27T12:25:35Z",
+                "owner": "oskarhagberg",
+                "repo": "gbgcity",
+                "stars": 2
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Regional"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Sveriges Radio API",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JavaScript (CLI)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2025-07-14T23:51:33Z",
+                "owner": "ollelauribostrom",
+                "repo": "sverigesradio",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MMS",
+          "description": "API client (analyzes TV consumption in Sweden)",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Go",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Go",
+                "last_commit": "2021-03-18T14:48:51Z",
+                "owner": "TV4",
+                "repo": "mms",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Translates SAB (Swedish library classification system) codes to, human readable, Swedish subject",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ruby",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2010-12-16T10:57:18Z",
+                "owner": "c7",
+                "repo": "ur-sab",
+                "stars": 1
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Media"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ROT-avdrag calculator",
+          "description": "Interactive 2026 ROT tax deduction calculator (HTML/JS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-17T01:59:57Z",
+            "owner": "zaragoza-ab",
+            "repo": "rot-avdrag-calculator",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RUT-avdrag calculator",
+          "description": "Interactive 2026 RUT tax deduction calculator (HTML/JS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-17T01:59:59Z",
+            "owner": "zaragoza-ab",
+            "repo": "rut-avdrag-calculator",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Entreprenör verification tool",
+          "description": "9-step checklist for verifying Swedish construction firms (F-skatt, insurance, ID06, references)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-17T01:54:40Z",
+            "owner": "zaragoza-ab",
+            "repo": "entreprenor-verification-tool",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bygglov checklist",
+          "description": "Building permit checklist for Swedish kommuner (focused on Skåne)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-17T01:54:24Z",
+            "owner": "zaragoza-ab",
+            "repo": "bygglov-checklist-sweden",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Personalliggare template",
+          "description": "Skatteverket-compliant personnel ledger (HTML form + CSV/JSON schema)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-17T01:54:33Z",
+            "owner": "zaragoza-ab",
+            "repo": "personalliggare-template",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arbetsmiljöplan template",
+          "description": "AFS 1999:3 work environment plan template",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-17T01:54:38Z",
+            "owner": "zaragoza-ab",
+            "repo": "arbetsmiljoplan-template",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Omvänd moms guide",
+          "description": "Reverse-charge VAT guide with invoice templates",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-17T01:54:35Z",
+            "owner": "zaragoza-ab",
+            "repo": "omvand-moms-bygg-guide",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Construction"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Kolada API - KPIs concerning Swedish municipalities and organizational units",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-08-01T04:46:39Z",
+                "owner": "buren",
+                "repo": "kolada",
+                "stars": 6
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Polisen API",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": "events and police stations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-08-01T04:16:10Z",
+                "owner": "buren",
+                "repo": "polisen-api",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SCB API (Statistiska Centralbyrån)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ruby",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2013-05-13T07:24:06Z",
+                "owner": "peterhellberg",
+                "repo": "scb",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SMHI API",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2017-03-11T05:15:27Z",
+                "owner": "thelinmichael",
+                "repo": "smhi-node",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C#",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2018-03-19T00:51:25Z",
+                "owner": "piksel",
+                "repo": "SMHISharp",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-07-27T19:47:18Z",
+                "owner": "peterstark72",
+                "repo": "smhi-nodejs",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Phone number formatter",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-03-24T10:03:13Z",
+                "owner": "svenheden",
+                "repo": "swedish-phone-number-formatter",
+                "stars": 7
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Postal code validator",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-04-09T03:24:35Z",
+                "owner": "svenheden",
+                "repo": "swedish-postal-code-validator",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2019-11-20T15:05:19Z",
+                "owner": "bombsimon",
+                "repo": "swedish-zipcode",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rust",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2020-08-02T20:25:25Z",
+                "owner": "bombsimon",
+                "repo": "swedish-postal-codes",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Postal code lookup",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-11-01T11:52:24Z",
+                "owner": "vzhufk",
+                "repo": "z1p",
+                "stars": 19
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Postnord",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Python",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Nix",
+                "last_commit": "2025-12-16T22:33:59Z",
+                "owner": "dunderrrrrr",
+                "repo": "postnord_api",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Cardinal number converter",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-04-09T16:30:01Z",
+                "owner": "svenheden",
+                "repo": "swedish-cardinal-numbers",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Booli API",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-06-25T05:52:32Z",
+                "owner": "filipchr",
+                "repo": "node-booli",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Hemnet",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PHP WordPress plugin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "PHP",
+                "last_commit": "2025-02-16T14:41:43Z",
+                "owner": "bombsimon",
+                "repo": "hemnet-plugin",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Blocket",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Python",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-23T12:42:56Z",
+                "owner": "dunderrrrrr",
+                "repo": "blocket_api",
+                "stars": 42
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Misc"
+    },
+    {
+      "description": "Creative Commons CC0.\npassing build means all URLs are 200.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:30:40.434Z",
+    "original_repository": "buren/awesome-sweden",
+    "original_repository_sha": "8d2d2558c42b4501e9b7922931edd5daf056f17c",
+    "enhanced_repository": "enhansome/enhansome-sweden",
+    "enhanced_repository_description": null,
+    "title": "Awesome Sweden list with stars"
+  }
+}
