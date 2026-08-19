@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -15,8 +15,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 27436432,
                 "language": "TypeScript",
-                "last_commit": "2026-08-10T23:07:41Z",
+                "last_commit": "2026-08-19T00:43:34Z",
                 "owner": "personnummer",
                 "repo": "js",
                 "stars": 59
@@ -29,6 +30,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 139032864,
                 "language": "F#",
                 "last_commit": "2026-04-10T10:44:31Z",
                 "owner": "ActiveLogin",
@@ -43,6 +45,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 27970772,
                 "language": "PHP",
                 "last_commit": "2026-08-11T23:07:04Z",
                 "owner": "personnummer",
@@ -57,6 +60,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 40531,
                 "language": "Ruby",
                 "last_commit": "2020-03-01T11:05:32Z",
                 "owner": "c7",
@@ -71,6 +75,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 5887390,
                 "language": "PHP",
                 "last_commit": "2021-01-03T22:47:48Z",
                 "owner": "byrokrat",
@@ -85,6 +90,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 107812435,
                 "language": "Python",
                 "last_commit": "2026-07-21T08:13:59Z",
                 "owner": "personnummer",
@@ -99,6 +105,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 107652190,
                 "language": "Java",
                 "last_commit": "2026-08-07T13:02:17Z",
                 "owner": "personnummer",
@@ -113,6 +120,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 107447898,
                 "language": "Go",
                 "last_commit": "2026-07-16T06:14:39Z",
                 "owner": "personnummer",
@@ -127,6 +135,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 107791379,
                 "language": "Ruby",
                 "last_commit": "2026-06-19T12:10:13Z",
                 "owner": "personnummer",
@@ -141,6 +150,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 116646504,
                 "language": "Swift",
                 "last_commit": "2026-07-12T18:48:31Z",
                 "owner": "personnummer",
@@ -155,6 +165,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 25833797,
                 "language": "JavaScript",
                 "last_commit": "2018-04-07T12:44:51Z",
                 "owner": "arokor",
@@ -169,6 +180,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 97202461,
                 "language": "JavaScript",
                 "last_commit": "2026-03-02T07:44:41Z",
                 "owner": "svenheden",
@@ -183,6 +195,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 131341498,
                 "language": "Go",
                 "last_commit": "2022-03-22T07:02:22Z",
                 "owner": "bombsimon",
@@ -204,6 +217,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 90726223,
                 "language": "JavaScript",
                 "last_commit": "2017-06-05T23:17:41Z",
                 "owner": "Yepstr",
@@ -217,7 +231,7 @@
       "title": "People"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -231,6 +245,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 120937980,
                 "language": "TypeScript",
                 "last_commit": "2023-01-03T22:45:09Z",
                 "owner": "carlbarrdahl",
@@ -245,6 +260,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 136191644,
                 "language": "Rust",
                 "last_commit": "2018-12-02T19:09:55Z",
                 "owner": "drager",
@@ -259,6 +275,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 83407045,
                 "language": "Go",
                 "last_commit": "2024-08-21T15:44:08Z",
                 "owner": "frozzare",
@@ -280,6 +297,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 2561963,
                 "language": "Ruby",
                 "last_commit": "2026-06-24T11:22:53Z",
                 "owner": "barsoom",
@@ -294,6 +312,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 298531065,
                 "language": "JavaScript",
                 "last_commit": "2023-12-15T11:41:20Z",
                 "owner": "brocc-ab",
@@ -308,6 +327,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 297365617,
                 "language": "PHP",
                 "last_commit": "2023-12-15T11:43:56Z",
                 "owner": "brocc-ab",
@@ -329,6 +349,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 2948663,
                 "language": "Ruby",
                 "last_commit": "2026-06-23T06:44:35Z",
                 "owner": "barsoom",
@@ -350,6 +371,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 3345501,
                 "language": "Ruby",
                 "last_commit": "2022-01-28T09:37:47Z",
                 "owner": "barsoom",
@@ -371,6 +393,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 14694748,
                 "language": "Ruby",
                 "last_commit": "2026-06-22T14:06:00Z",
                 "owner": "barsoom",
@@ -392,6 +415,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 153946922,
                 "language": "Go",
                 "last_commit": "2020-11-25T09:44:04Z",
                 "owner": "zeevallin",
@@ -405,7 +429,7 @@
       "title": "Finance"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -419,8 +443,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 139032835,
                 "language": "C#",
-                "last_commit": "2026-07-29T09:48:02Z",
+                "last_commit": "2026-08-19T12:40:59Z",
                 "owner": "ActiveLogin",
                 "repo": "ActiveLogin.Authentication",
                 "stars": 240
@@ -433,6 +458,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 76806776,
                 "language": "TypeScript",
                 "last_commit": "2026-07-20T17:53:00Z",
                 "owner": "anyfin",
@@ -447,6 +473,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 168350569,
                 "language": "Kotlin",
                 "last_commit": "2019-01-30T13:50:17Z",
                 "owner": "spacecowboy",
@@ -468,8 +495,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 139032835,
                 "language": "C#",
-                "last_commit": "2026-07-29T09:48:02Z",
+                "last_commit": "2026-08-19T12:40:59Z",
                 "owner": "ActiveLogin",
                 "repo": "ActiveLogin.Authentication",
                 "stars": 240
@@ -481,7 +509,7 @@
       "title": "Authentication"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -495,6 +523,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 104107695,
                 "language": "Ruby",
                 "last_commit": "2023-11-01T04:41:02Z",
                 "owner": "buren",
@@ -516,6 +545,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 87742760,
                 "language": "Ruby",
                 "last_commit": "2023-07-01T04:08:07Z",
                 "owner": "buren",
@@ -537,6 +567,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 87742760,
                 "language": "Ruby",
                 "last_commit": "2023-07-01T04:08:07Z",
                 "owner": "buren",
@@ -551,6 +582,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 106125795,
                 "language": "JavaScript",
                 "last_commit": "2018-03-19T14:09:34Z",
                 "owner": "othermachines",
@@ -564,7 +596,7 @@
       "title": "Job market"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -578,6 +610,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 31944818,
                 "language": "CoffeeScript",
                 "last_commit": "2017-07-01T19:27:19Z",
                 "owner": "simon-johansson",
@@ -592,6 +625,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 517855474,
                 "language": "TypeScript",
                 "last_commit": "2022-08-02T21:27:12Z",
                 "owner": "rebelliard",
@@ -606,6 +640,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 114684801,
                 "language": "Go",
                 "last_commit": "2017-12-19T09:57:29Z",
                 "owner": "frozzare",
@@ -627,6 +662,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 2538689,
                 "language": "JavaScript",
                 "last_commit": "2013-02-21T21:51:01Z",
                 "owner": "oskarhagberg",
@@ -648,25 +684,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 80803313,
                 "language": "JavaScript",
                 "last_commit": "2017-12-11T08:06:14Z",
                 "owner": "eduardoportilho",
                 "repo": "trafikverket",
                 "stars": 2
               }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Bilvision API (car register service a.k.a \"Bilregistertjänst\")",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Ruby",
-              "description": null,
-              "children": []
             }
           ]
         }
@@ -688,6 +712,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 143446048,
                 "language": "JavaScript",
                 "last_commit": "2023-08-01T04:51:47Z",
                 "owner": "buren",
@@ -709,6 +734,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 2444352,
                 "language": "JavaScript",
                 "last_commit": "2012-06-27T12:25:35Z",
                 "owner": "oskarhagberg",
@@ -722,7 +748,7 @@
       "title": "Regional"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -736,6 +762,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 119218702,
                 "language": "JavaScript",
                 "last_commit": "2025-07-14T23:51:33Z",
                 "owner": "ollelauribostrom",
@@ -757,6 +784,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 85950604,
                 "language": "Go",
                 "last_commit": "2021-03-18T14:48:51Z",
                 "owner": "TV4",
@@ -778,6 +806,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 658974,
                 "language": "Ruby",
                 "last_commit": "2010-12-16T10:57:18Z",
                 "owner": "c7",
@@ -791,7 +820,7 @@
       "title": "Media"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -800,6 +829,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1213004552,
             "language": "HTML",
             "last_commit": "2026-04-17T01:59:57Z",
             "owner": "zaragoza-ab",
@@ -814,6 +844,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1213010261,
             "language": "HTML",
             "last_commit": "2026-04-17T01:59:59Z",
             "owner": "zaragoza-ab",
@@ -828,6 +859,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1213010231,
             "language": "HTML",
             "last_commit": "2026-04-17T01:54:40Z",
             "owner": "zaragoza-ab",
@@ -842,6 +874,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1213004513,
             "language": null,
             "last_commit": "2026-04-17T01:54:24Z",
             "owner": "zaragoza-ab",
@@ -856,6 +889,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1213010134,
             "language": null,
             "last_commit": "2026-04-17T01:54:33Z",
             "owner": "zaragoza-ab",
@@ -870,6 +904,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1213010203,
             "language": null,
             "last_commit": "2026-04-17T01:54:38Z",
             "owner": "zaragoza-ab",
@@ -884,6 +919,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1213010163,
             "language": null,
             "last_commit": "2026-04-17T01:54:35Z",
             "owner": "zaragoza-ab",
@@ -895,7 +931,7 @@
       "title": "Construction"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -909,6 +945,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 163732797,
                 "language": "JavaScript",
                 "last_commit": "2023-08-01T04:46:39Z",
                 "owner": "buren",
@@ -930,6 +967,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 145090994,
                 "language": "JavaScript",
                 "last_commit": "2023-08-01T04:16:10Z",
                 "owner": "buren",
@@ -951,6 +989,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 9580105,
                 "language": "Ruby",
                 "last_commit": "2013-05-13T07:24:06Z",
                 "owner": "peterhellberg",
@@ -972,6 +1011,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 17765771,
                 "language": "JavaScript",
                 "last_commit": "2017-03-11T05:15:27Z",
                 "owner": "thelinmichael",
@@ -986,6 +1026,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 88192584,
                 "language": "C#",
                 "last_commit": "2018-03-19T00:51:25Z",
                 "owner": "piksel",
@@ -1000,6 +1041,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 98167038,
                 "language": "JavaScript",
                 "last_commit": "2017-07-27T19:47:18Z",
                 "owner": "peterstark72",
@@ -1021,6 +1063,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 75964766,
                 "language": "JavaScript",
                 "last_commit": "2022-03-24T10:03:13Z",
                 "owner": "svenheden",
@@ -1042,6 +1085,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 121111916,
                 "language": "JavaScript",
                 "last_commit": "2022-04-09T03:24:35Z",
                 "owner": "svenheden",
@@ -1056,6 +1100,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 166002458,
                 "language": "Go",
                 "last_commit": "2019-11-20T15:05:19Z",
                 "owner": "bombsimon",
@@ -1070,6 +1115,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 284441748,
                 "language": "Rust",
                 "last_commit": "2020-08-02T20:25:25Z",
                 "owner": "bombsimon",
@@ -1091,6 +1137,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 154473057,
                 "language": "JavaScript",
                 "last_commit": "2018-11-01T11:52:24Z",
                 "owner": "vzhufk",
@@ -1112,6 +1159,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 935938294,
                 "language": "Nix",
                 "last_commit": "2025-12-16T22:33:59Z",
                 "owner": "dunderrrrrr",
@@ -1133,6 +1181,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 148532771,
                 "language": "JavaScript",
                 "last_commit": "2022-04-09T16:30:01Z",
                 "owner": "svenheden",
@@ -1154,6 +1203,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 168753730,
                 "language": "JavaScript",
                 "last_commit": "2022-06-25T05:52:32Z",
                 "owner": "filipchr",
@@ -1175,6 +1225,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 56449220,
                 "language": "PHP",
                 "last_commit": "2025-02-16T14:41:43Z",
                 "owner": "bombsimon",
@@ -1196,6 +1247,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 829455107,
                 "language": "Python",
                 "last_commit": "2026-07-23T12:42:56Z",
                 "owner": "dunderrrrrr",
@@ -1207,16 +1259,12 @@
         }
       ],
       "title": "Misc"
-    },
-    {
-      "description": "Creative Commons CC0.\npassing build means all URLs are 200.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:50:58.085Z",
+    "last_updated": "2026-08-19T12:52:08.331Z",
     "original_repository": "buren/awesome-sweden",
+    "original_repository_id": 135589659,
     "original_repository_sha": "8d2d2558c42b4501e9b7922931edd5daf056f17c",
     "enhanced_repository": "enhansome/enhansome-sweden",
     "enhanced_repository_description": null,
