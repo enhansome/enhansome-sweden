@@ -80,11 +80,11 @@ A curated list of awesome things to use when coding for the Swedish market.
 ## Authentication
 
 * Authentication using BankID
-  * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) ⭐ 240 | 🐛 37 | 🌐 C# | 📅 2026-08-20 (With authentication handler for ASP.NET)
+  * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) ⭐ 240 | 🐛 37 | 🌐 C# | 📅 2026-08-21 (With authentication handler for ASP.NET)
   * [JavaScript](https://github.com/anyfin/bankid) ⭐ 72 | 🐛 5 | 🌐 TypeScript | 📅 2026-07-20 by [Anyfin](https://anyfin.com/)
   * [Android](https://github.com/spacecowboy/bankid-android-sample) ⭐ 5 | 🐛 0 | 🌐 Kotlin | 📅 2019-01-30 (Sample implementation)
 * Authentication using GrandID (Svensk E-Identitet)
-  * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) ⭐ 240 | 🐛 37 | 🌐 C# | 📅 2026-08-20 (With authentication handler for ASP.NET)
+  * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) ⭐ 240 | 🐛 37 | 🌐 C# | 📅 2026-08-21 (With authentication handler for ASP.NET)
 
 ## Job market
 
@@ -196,7 +196,7 @@ Contributions, feedback and suggestions are very welcome.
 
 **Before you start, make sure**
 
-1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 498,091 | 🐛 105 | 📅 2026-08-18)
+1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 498,525 | 🐛 105 | 📅 2026-08-21)
 2. The library is not already added to this list
 3. The library is somewhat stable
 
@@ -220,4 +220,4 @@ then
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
