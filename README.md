@@ -4,6 +4,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 
 ## Content
 
+* :link: [Awesome Sweden Datasets](https://github.com/buren/awesome-sweden-datasets) ⭐ 28 | 🐛 5 | 🌐 Shell | 📅 2026-04-21
 * [People](#people)
 * [Companies](#companies)
 * [Finance](#finance)
@@ -15,7 +16,6 @@ A curated list of awesome things to use when coding for the Swedish market.
 * [Media](#media)
 * [Construction](#construction)
 * [Misc](#misc)
-* :link: [Awesome Sweden Datasets](https://github.com/buren/awesome-sweden-datasets) ⭐ 28 | 🐛 5 | 🌐 Shell | 📅 2026-04-21
 * A **[wish list](#wish-list)** of things we'd like to see libraries for
 
 :information\_source:
@@ -196,7 +196,7 @@ Contributions, feedback and suggestions are very welcome.
 
 **Before you start, make sure**
 
-1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 499,166 | 🐛 106 | 📅 2026-08-21)
+1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 499,520 | 🐛 106 | 📅 2026-08-21)
 2. The library is not already added to this list
 3. The library is somewhat stable
 
@@ -220,4 +220,4 @@ then
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
