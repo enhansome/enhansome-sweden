@@ -53,7 +53,7 @@
                 "archived": false,
                 "id": 27436432,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T15:36:51Z",
+                "last_commit": "2026-08-25T04:18:21Z",
                 "owner": "personnummer",
                 "repo": "js",
                 "stars": 59
@@ -1298,7 +1298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:58:37.608Z",
+    "last_updated": "2026-08-25T06:24:49.100Z",
     "original_repository": "buren/awesome-sweden",
     "original_repository_id": 135589659,
     "original_repository_sha": "8d2d2558c42b4501e9b7922931edd5daf056f17c",
