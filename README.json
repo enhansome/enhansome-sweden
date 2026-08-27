@@ -481,7 +481,7 @@
                 "archived": false,
                 "id": 139032835,
                 "language": "C#",
-                "last_commit": "2026-08-27T11:52:07Z",
+                "last_commit": "2026-08-27T15:10:50Z",
                 "owner": "ActiveLogin",
                 "repo": "ActiveLogin.Authentication",
                 "stars": 240
@@ -533,7 +533,7 @@
                 "archived": false,
                 "id": 139032835,
                 "language": "C#",
-                "last_commit": "2026-08-27T11:52:07Z",
+                "last_commit": "2026-08-27T15:10:50Z",
                 "owner": "ActiveLogin",
                 "repo": "ActiveLogin.Authentication",
                 "stars": 240
@@ -1298,7 +1298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:05:24.681Z",
+    "last_updated": "2026-08-27T23:46:34.171Z",
     "original_repository_info": {
       "archived": false,
       "id": 135589659,
