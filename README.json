@@ -481,7 +481,7 @@
                 "archived": false,
                 "id": 139032835,
                 "language": "C#",
-                "last_commit": "2026-08-26T12:56:52Z",
+                "last_commit": "2026-08-27T11:52:07Z",
                 "owner": "ActiveLogin",
                 "repo": "ActiveLogin.Authentication",
                 "stars": 240
@@ -533,7 +533,7 @@
                 "archived": false,
                 "id": 139032835,
                 "language": "C#",
-                "last_commit": "2026-08-26T12:56:52Z",
+                "last_commit": "2026-08-27T11:52:07Z",
                 "owner": "ActiveLogin",
                 "repo": "ActiveLogin.Authentication",
                 "stars": 240
@@ -1298,9 +1298,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T15:53:42.909Z",
-    "original_repository": "buren/awesome-sweden",
-    "original_repository_id": 135589659,
+    "last_updated": "2026-08-27T12:05:24.681Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 135589659,
+      "language": "Shell",
+      "last_commit": "2026-04-21T07:51:35Z",
+      "owner": "buren",
+      "repo": "awesome-sweden",
+      "stars": 208
+    },
     "original_repository_sha": "8d2d2558c42b4501e9b7922931edd5daf056f17c",
     "enhanced_repository": "enhansome/enhansome-sweden",
     "enhanced_repository_description": null,
