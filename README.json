@@ -16,7 +16,8 @@
             "owner": "buren",
             "repo": "awesome-sweden-datasets",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T23:32:18.912Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "buren",
             "repo": "awesome-sweden-datasets",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T23:32:18.912Z"
         }
       ],
       "title": "Content"
@@ -57,7 +59,8 @@
                 "owner": "personnummer",
                 "repo": "js",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             },
             {
               "node_type": "item",
@@ -72,7 +75,8 @@
                 "owner": "ActiveLogin",
                 "repo": "ActiveLogin.Identity",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             },
             {
               "node_type": "item",
@@ -87,7 +91,8 @@
                 "owner": "personnummer",
                 "repo": "php",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             },
             {
               "node_type": "item",
@@ -102,7 +107,8 @@
                 "owner": "c7",
                 "repo": "personnummer",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             },
             {
               "node_type": "item",
@@ -117,7 +123,8 @@
                 "owner": "byrokrat",
                 "repo": "id",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             },
             {
               "node_type": "item",
@@ -132,7 +139,8 @@
                 "owner": "personnummer",
                 "repo": "python",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             },
             {
               "node_type": "item",
@@ -147,7 +155,8 @@
                 "owner": "personnummer",
                 "repo": "java",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             },
             {
               "node_type": "item",
@@ -162,7 +171,8 @@
                 "owner": "personnummer",
                 "repo": "go",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             },
             {
               "node_type": "item",
@@ -177,7 +187,8 @@
                 "owner": "personnummer",
                 "repo": "ruby",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             },
             {
               "node_type": "item",
@@ -192,7 +203,8 @@
                 "owner": "personnummer",
                 "repo": "swift",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             },
             {
               "node_type": "item",
@@ -207,7 +219,8 @@
                 "owner": "arokor",
                 "repo": "pernr",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             },
             {
               "node_type": "item",
@@ -222,7 +235,8 @@
                 "owner": "svenheden",
                 "repo": "swedish-personal-identity-number-validator",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             },
             {
               "node_type": "item",
@@ -237,7 +251,8 @@
                 "owner": "bombsimon",
                 "repo": "go-personnummer",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         },
@@ -259,7 +274,8 @@
                 "owner": "Yepstr",
                 "repo": "node-statenspersonadressregister",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         }
@@ -287,7 +303,8 @@
                 "owner": "carlbarrdahl",
                 "repo": "swish-payments",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             },
             {
               "node_type": "item",
@@ -302,7 +319,8 @@
                 "owner": "drager",
                 "repo": "swish",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             },
             {
               "node_type": "item",
@@ -317,7 +335,8 @@
                 "owner": "frozzare",
                 "repo": "go-swish",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         },
@@ -339,7 +358,8 @@
                 "owner": "barsoom",
                 "repo": "banktools-se",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             },
             {
               "node_type": "item",
@@ -354,7 +374,8 @@
                 "owner": "brocc-ab",
                 "repo": "se-bank-account-js",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             },
             {
               "node_type": "item",
@@ -369,7 +390,8 @@
                 "owner": "brocc-ab",
                 "repo": "se-bank-account-php",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         },
@@ -391,7 +413,8 @@
                 "owner": "barsoom",
                 "repo": "supplier_payments",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         },
@@ -413,7 +436,8 @@
                 "owner": "barsoom",
                 "repo": "debitech",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         },
@@ -435,7 +459,8 @@
                 "owner": "barsoom",
                 "repo": "sie",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         },
@@ -457,7 +482,8 @@
                 "owner": "zeevallin",
                 "repo": "riksbank",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         }
@@ -485,7 +511,8 @@
                 "owner": "ActiveLogin",
                 "repo": "ActiveLogin.Authentication",
                 "stars": 240
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             },
             {
               "node_type": "item",
@@ -500,7 +527,8 @@
                 "owner": "anyfin",
                 "repo": "bankid",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             },
             {
               "node_type": "item",
@@ -515,7 +543,8 @@
                 "owner": "spacecowboy",
                 "repo": "bankid-android-sample",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         },
@@ -537,7 +566,8 @@
                 "owner": "ActiveLogin",
                 "repo": "ActiveLogin.Authentication",
                 "stars": 240
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         }
@@ -565,7 +595,8 @@
                 "owner": "buren",
                 "repo": "metrojobb",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         },
@@ -587,7 +618,8 @@
                 "owner": "buren",
                 "repo": "arbetsformedlingen",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         },
@@ -609,7 +641,8 @@
                 "owner": "buren",
                 "repo": "arbetsformedlingen",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             },
             {
               "node_type": "item",
@@ -624,7 +657,8 @@
                 "owner": "othermachines",
                 "repo": "platsbanken-vacancy",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         }
@@ -652,7 +686,8 @@
                 "owner": "simon-johansson",
                 "repo": "SL-api",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             },
             {
               "node_type": "item",
@@ -667,7 +702,8 @@
                 "owner": "rebelliard",
                 "repo": "stockholm-transit-api",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             },
             {
               "node_type": "item",
@@ -682,7 +718,8 @@
                 "owner": "frozzare",
                 "repo": "go-sl",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         },
@@ -704,7 +741,8 @@
                 "owner": "oskarhagberg",
                 "repo": "node-vasttrafik",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         },
@@ -726,7 +764,8 @@
                 "owner": "eduardoportilho",
                 "repo": "trafikverket",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         }
@@ -754,7 +793,8 @@
                 "owner": "buren",
                 "repo": "stockholm-api",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         },
@@ -776,7 +816,8 @@
                 "owner": "oskarhagberg",
                 "repo": "gbgcity",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         }
@@ -804,7 +845,8 @@
                 "owner": "ollelauribostrom",
                 "repo": "sverigesradio",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         },
@@ -826,7 +868,8 @@
                 "owner": "TV4",
                 "repo": "mms",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         },
@@ -848,7 +891,8 @@
                 "owner": "c7",
                 "repo": "ur-sab",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         }
@@ -871,7 +915,8 @@
             "owner": "zaragoza-ab",
             "repo": "rot-avdrag-calculator",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:32:18.912Z"
         },
         {
           "node_type": "item",
@@ -886,7 +931,8 @@
             "owner": "zaragoza-ab",
             "repo": "rut-avdrag-calculator",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:32:18.912Z"
         },
         {
           "node_type": "item",
@@ -901,7 +947,8 @@
             "owner": "zaragoza-ab",
             "repo": "entreprenor-verification-tool",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:32:18.912Z"
         },
         {
           "node_type": "item",
@@ -916,7 +963,8 @@
             "owner": "zaragoza-ab",
             "repo": "bygglov-checklist-sweden",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:32:18.912Z"
         },
         {
           "node_type": "item",
@@ -931,7 +979,8 @@
             "owner": "zaragoza-ab",
             "repo": "personalliggare-template",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:32:18.912Z"
         },
         {
           "node_type": "item",
@@ -946,7 +995,8 @@
             "owner": "zaragoza-ab",
             "repo": "arbetsmiljoplan-template",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:32:18.912Z"
         },
         {
           "node_type": "item",
@@ -961,7 +1011,8 @@
             "owner": "zaragoza-ab",
             "repo": "omvand-moms-bygg-guide",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:32:18.912Z"
         }
       ],
       "title": "Construction"
@@ -987,7 +1038,8 @@
                 "owner": "buren",
                 "repo": "kolada",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         },
@@ -1009,7 +1061,8 @@
                 "owner": "buren",
                 "repo": "polisen-api",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         },
@@ -1031,7 +1084,8 @@
                 "owner": "peterhellberg",
                 "repo": "scb",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         },
@@ -1053,7 +1107,8 @@
                 "owner": "thelinmichael",
                 "repo": "smhi-node",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             },
             {
               "node_type": "item",
@@ -1068,7 +1123,8 @@
                 "owner": "piksel",
                 "repo": "SMHISharp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             },
             {
               "node_type": "item",
@@ -1083,7 +1139,8 @@
                 "owner": "peterstark72",
                 "repo": "smhi-nodejs",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         },
@@ -1105,7 +1162,8 @@
                 "owner": "svenheden",
                 "repo": "swedish-phone-number-formatter",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         },
@@ -1127,7 +1185,8 @@
                 "owner": "svenheden",
                 "repo": "swedish-postal-code-validator",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             },
             {
               "node_type": "item",
@@ -1142,7 +1201,8 @@
                 "owner": "bombsimon",
                 "repo": "swedish-zipcode",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             },
             {
               "node_type": "item",
@@ -1157,7 +1217,8 @@
                 "owner": "bombsimon",
                 "repo": "swedish-postal-codes",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         },
@@ -1179,7 +1240,8 @@
                 "owner": "vzhufk",
                 "repo": "z1p",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         },
@@ -1201,7 +1263,8 @@
                 "owner": "dunderrrrrr",
                 "repo": "postnord_api",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         },
@@ -1223,7 +1286,8 @@
                 "owner": "svenheden",
                 "repo": "swedish-cardinal-numbers",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         },
@@ -1245,7 +1309,8 @@
                 "owner": "filipchr",
                 "repo": "node-booli",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         },
@@ -1267,7 +1332,8 @@
                 "owner": "bombsimon",
                 "repo": "hemnet-plugin",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         },
@@ -1289,7 +1355,8 @@
                 "owner": "dunderrrrrr",
                 "repo": "blocket_api",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T23:32:18.912Z"
             }
           ]
         }
@@ -1298,7 +1365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:46:34.171Z",
+    "last_updated": "2026-08-28T23:32:18.912Z",
     "original_repository_info": {
       "archived": false,
       "id": 135589659,
