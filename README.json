@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome datasets to use when coding for the Swedish market.",
+            "homepage": null,
             "id": 157349197,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-21T07:47:05Z",
+            "open_issues": 5,
             "owner": "buren",
             "repo": "awesome-sweden-datasets",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "apis",
+              "awesome",
+              "awesome-list",
+              "datasets",
+              "list",
+              "resources",
+              "sweden"
+            ]
           },
           "first_seen": "2026-08-28T23:32:18.912Z"
         },
@@ -26,12 +39,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome datasets to use when coding for the Swedish market.",
+            "homepage": null,
             "id": 157349197,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-21T07:47:05Z",
+            "open_issues": 5,
             "owner": "buren",
             "repo": "awesome-sweden-datasets",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "apis",
+              "awesome",
+              "awesome-list",
+              "datasets",
+              "list",
+              "resources",
+              "sweden"
+            ]
           },
           "first_seen": "2026-08-28T23:32:18.912Z"
         }
@@ -53,12 +79,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Validate Swedish personal identity numbers",
+                "homepage": "https://www.npmjs.com/package/personnummer",
                 "id": 27436432,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T12:47:28Z",
+                "open_issues": 10,
                 "owner": "personnummer",
                 "repo": "js",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "hacktoberfest",
+                  "javascript",
+                  "personal-identity-number",
+                  "personnummer",
+                  "social-security-number",
+                  "validation"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             },
@@ -69,12 +107,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parsing and validation of Swedish identities such as Personal Identity Number (svenskt personnummer) in .NET.",
+                "homepage": "https://activelogin.net",
                 "id": 139032864,
                 "language": "F#",
+                "license": "MIT",
                 "last_commit": "2026-04-10T10:44:31Z",
+                "open_issues": 18,
                 "owner": "ActiveLogin",
                 "repo": "ActiveLogin.Identity",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "activelogin",
+                  "csharp",
+                  "fsharp",
+                  "hacktoberfest",
+                  "identity",
+                  "netcore",
+                  "netstandard",
+                  "personalidentitynumber",
+                  "personnummer",
+                  "pin",
+                  "social-security-number",
+                  "swedish-social-security-number"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             },
@@ -85,12 +141,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Validate Swedish personal identity numbers",
+                "homepage": null,
                 "id": 27970772,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-11T23:07:04Z",
+                "open_issues": 3,
                 "owner": "personnummer",
                 "repo": "php",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "hacktoberfest",
+                  "personal-identity-number",
+                  "personnummer",
+                  "php",
+                  "social-security-number",
+                  "validation"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             },
@@ -101,12 +169,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Handles validation of Swedish personal identity numbers.",
+                "homepage": null,
                 "id": 40531,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2020-03-01T11:05:32Z",
+                "open_issues": 0,
                 "owner": "c7",
                 "repo": "personnummer",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             },
@@ -117,12 +190,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data types for swedish personal identity and corporation id numbers.",
+                "homepage": null,
                 "id": 5887390,
                 "language": "PHP",
+                "license": "Unlicense",
                 "last_commit": "2021-01-03T22:47:48Z",
+                "open_issues": 0,
                 "owner": "byrokrat",
                 "repo": "id",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "organisationsnummer",
+                  "personal-identity-number",
+                  "personnummer"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             },
@@ -133,12 +215,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Validate Swedish personal identity numbers",
+                "homepage": "https://pypi.org/project/personnummer/",
                 "id": 107812435,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-21T08:13:59Z",
+                "open_issues": 1,
                 "owner": "personnummer",
                 "repo": "python",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "hacktoberfest",
+                  "personal-identity-number",
+                  "personnummer",
+                  "python",
+                  "social-security-number",
+                  "validation"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             },
@@ -149,12 +243,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Validate Swedish personal identity numbers",
+                "homepage": null,
                 "id": 107652190,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-25T16:49:01Z",
+                "open_issues": 4,
                 "owner": "personnummer",
                 "repo": "java",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "hacktoberfest",
+                  "java",
+                  "personal-identity-number",
+                  "personnummer",
+                  "social-security-number",
+                  "validation"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             },
@@ -165,12 +271,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Validate Swedish personal identity numbers",
+                "homepage": "https://pkg.go.dev/github.com/personnummer/go",
                 "id": 107447898,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-16T06:14:39Z",
+                "open_issues": 3,
                 "owner": "personnummer",
                 "repo": "go",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "go",
+                  "personal-identity-number",
+                  "personnummer",
+                  "social-security-number",
+                  "validation"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             },
@@ -181,12 +298,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Validate Swedish personal identity numbers",
+                "homepage": null,
                 "id": 107791379,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-06-19T12:10:13Z",
+                "open_issues": 1,
                 "owner": "personnummer",
                 "repo": "ruby",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "hacktoberfest",
+                  "personal-identity-number",
+                  "personnummer",
+                  "ruby",
+                  "social-security-number",
+                  "validation"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             },
@@ -197,12 +326,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Validate Swedish personal identity numbers",
+                "homepage": null,
                 "id": 116646504,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-07-12T18:48:31Z",
+                "open_issues": 3,
                 "owner": "personnummer",
                 "repo": "swift",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "hacktoberfest",
+                  "personal-identity-number",
+                  "personnummer",
+                  "social-security-number",
+                  "swift",
+                  "validation"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             },
@@ -213,12 +354,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Validation functions for Swedish national identification numbers",
+                "homepage": null,
                 "id": 25833797,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-04-07T12:44:51Z",
+                "open_issues": 1,
                 "owner": "arokor",
                 "repo": "pernr",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             },
@@ -229,12 +375,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 97202461,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-02T07:44:41Z",
+                "open_issues": 1,
                 "owner": "svenheden",
                 "repo": "swedish-personal-identity-number-validator",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             },
@@ -245,12 +396,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔢 Validate Swedish personal identity numbers",
+                "homepage": null,
                 "id": 131341498,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2022-03-22T07:02:22Z",
+                "open_issues": 0,
                 "owner": "bombsimon",
                 "repo": "go-personnummer",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -268,12 +424,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 90726223,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-06-05T23:17:41Z",
+                "open_issues": 0,
                 "owner": "Yepstr",
                 "repo": "node-statenspersonadressregister",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -297,12 +458,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node.js library for the Swish API",
+                "homepage": "https://squish-platform.github.io/swish-payments/",
                 "id": 120937980,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-03T22:45:09Z",
+                "open_issues": 15,
                 "owner": "carlbarrdahl",
                 "repo": "swish-payments",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             },
@@ -313,12 +479,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust API bindings for the Swish API. https://developer.getswish.se/merchants/",
+                "homepage": null,
                 "id": 136191644,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2018-12-02T19:09:55Z",
+                "open_issues": 0,
                 "owner": "drager",
                 "repo": "swish",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "api-bindings",
+                  "payment",
+                  "rust",
+                  "rust-library",
+                  "swish"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             },
@@ -329,12 +506,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go package for the Swish merchant API",
+                "homepage": null,
                 "id": 83407045,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-08-21T15:44:08Z",
+                "open_issues": 0,
                 "owner": "frozzare",
                 "repo": "go-swish",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "payment",
+                  "swish"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -352,12 +537,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Validate and normalize Swedish bank account numbers, plusgiro and bankgiro.",
+                "homepage": null,
                 "id": 2561963,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2026-06-24T11:22:53Z",
+                "open_issues": 0,
                 "owner": "barsoom",
                 "repo": "banktools-se",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             },
@@ -368,12 +558,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swedish bank account details and validation for JavaScript",
+                "homepage": null,
                 "id": 298531065,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-12-15T11:41:20Z",
+                "open_issues": 2,
                 "owner": "brocc-ab",
                 "repo": "se-bank-account-js",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             },
@@ -384,12 +579,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swedish bank account details and validation for PHP",
+                "homepage": null,
                 "id": 297365617,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2023-12-15T11:43:56Z",
+                "open_issues": 1,
                 "owner": "brocc-ab",
                 "repo": "se-bank-account-php",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -407,12 +607,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby library for making BGC supplier payment files (leverantörsbetalningar).",
+                "homepage": null,
                 "id": 2948663,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2026-06-23T06:44:35Z",
+                "open_issues": 0,
                 "owner": "barsoom",
                 "repo": "supplier_payments",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -430,12 +635,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Library for doing payments using DebiTech (DIBS)",
+                "homepage": null,
                 "id": 3345501,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2022-01-28T09:37:47Z",
+                "open_issues": 0,
                 "owner": "barsoom",
                 "repo": "debitech",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -453,12 +663,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parser and generator for SIE files (https://sie.se/)",
+                "homepage": null,
                 "id": 14694748,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2026-06-22T14:06:00Z",
+                "open_issues": 1,
                 "owner": "barsoom",
                 "repo": "sie",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -476,12 +691,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go library and command line tool for interacting with the Swedish central bank API",
+                "homepage": "https://www.riksbank.se",
                 "id": 153946922,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2020-11-25T09:44:04Z",
+                "open_issues": 0,
                 "owner": "zeevallin",
                 "repo": "riksbank",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "bank",
+                  "banking",
+                  "fintech",
+                  "interest-rates",
+                  "riksbank",
+                  "sweden"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -505,12 +732,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Support Swedish BankID (svenskt BankID) authentication in .NET. Unofficial package, not created by BankID.",
+                "homepage": "https://activelogin.net",
                 "id": 139032835,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-27T15:10:50Z",
+                "open_issues": 30,
                 "owner": "ActiveLogin",
                 "repo": "ActiveLogin.Authentication",
-                "stars": 240
+                "stars": 240,
+                "topics": [
+                  "activelogin",
+                  "authentication",
+                  "azure",
+                  "bankid",
+                  "csharp",
+                  "hacktoberfest",
+                  "netcore",
+                  "netstandard"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             },
@@ -521,12 +762,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "npm module to simplify integration with the Swedish Bank ID service for user authentication and signing processes.",
+                "homepage": "https://www.npmjs.com/package/bankid",
                 "id": 76806776,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-20T17:53:00Z",
+                "open_issues": 5,
                 "owner": "anyfin",
                 "repo": "bankid",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "bankid",
+                  "cif-deposits",
+                  "cif-refi",
+                  "javascript",
+                  "sweden"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             },
@@ -537,12 +789,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample Android app to demonstrate integrating with BankId.",
+                "homepage": null,
                 "id": 168350569,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2019-01-30T13:50:17Z",
+                "open_issues": 0,
                 "owner": "spacecowboy",
                 "repo": "bankid-android-sample",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -560,12 +817,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Support Swedish BankID (svenskt BankID) authentication in .NET. Unofficial package, not created by BankID.",
+                "homepage": "https://activelogin.net",
                 "id": 139032835,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-27T15:10:50Z",
+                "open_issues": 30,
                 "owner": "ActiveLogin",
                 "repo": "ActiveLogin.Authentication",
-                "stars": 240
+                "stars": 240,
+                "topics": [
+                  "activelogin",
+                  "authentication",
+                  "azure",
+                  "bankid",
+                  "csharp",
+                  "hacktoberfest",
+                  "netcore",
+                  "netstandard"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -589,12 +860,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build a feed for Metrojobb with ease.",
+                "homepage": null,
                 "id": 104107695,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2023-11-01T04:41:02Z",
+                "open_issues": 2,
                 "owner": "buren",
                 "repo": "metrojobb",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "metrojobb",
+                  "rubygem"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -612,12 +891,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "API Client & Post job ads to the Swedish employment agency (Arbetsförmedlingen)",
+                "homepage": null,
                 "id": 87742760,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2023-07-01T04:08:07Z",
+                "open_issues": 7,
                 "owner": "buren",
                 "repo": "arbetsformedlingen",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "api-client",
+                  "arbetsformedlingen",
+                  "platsbanken",
+                  "ruby",
+                  "rubygem",
+                  "swedish-employment-agency"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -635,12 +926,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "API Client & Post job ads to the Swedish employment agency (Arbetsförmedlingen)",
+                "homepage": null,
                 "id": 87742760,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2023-07-01T04:08:07Z",
+                "open_issues": 7,
                 "owner": "buren",
                 "repo": "arbetsformedlingen",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "api-client",
+                  "arbetsformedlingen",
+                  "platsbanken",
+                  "ruby",
+                  "rubygem",
+                  "swedish-employment-agency"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             },
@@ -651,12 +954,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Submit vacancies to the Arbetsförmedlingen Platsbanken (Swedish employment agency job centre)",
+                "homepage": null,
                 "id": 106125795,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-03-19T14:09:34Z",
+                "open_issues": 1,
                 "owner": "othermachines",
                 "repo": "platsbanken-vacancy",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -680,12 +988,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node.js wrapper for working with the official Storstockholms Lokaltrafiks (SL) public API:s",
+                "homepage": null,
                 "id": 31944818,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2017-07-01T19:27:19Z",
+                "open_issues": 0,
                 "owner": "simon-johansson",
                 "repo": "SL-api",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             },
@@ -696,12 +1009,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🇸🇪 Stockholm Transit APIs 🚆",
+                "homepage": null,
                 "id": 517855474,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-08-02T21:27:12Z",
+                "open_issues": 0,
                 "owner": "rebelliard",
                 "repo": "stockholm-transit-api",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "stockholm",
+                  "storstockholms",
+                  "trafiklab"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             },
@@ -712,12 +1034,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go package for dealing with sl.se's apis",
+                "homepage": null,
                 "id": 114684801,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2017-12-19T09:57:29Z",
+                "open_issues": 0,
                 "owner": "frozzare",
                 "repo": "go-sl",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "sl",
+                  "trafiklab"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -735,12 +1065,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Node.js wrapper around Vasttrafik API",
+                "homepage": null,
                 "id": 2538689,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2013-02-21T21:51:01Z",
+                "open_issues": 0,
                 "owner": "oskarhagberg",
                 "repo": "node-vasttrafik",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -758,12 +1093,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚂 A wrapper for the Trafikverket API which provides information about trains in Sweden.",
+                "homepage": null,
                 "id": 80803313,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-12-11T08:06:14Z",
+                "open_issues": 0,
                 "owner": "eduardoportilho",
                 "repo": "trafikverket",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -787,12 +1127,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stockholm API client",
+                "homepage": null,
                 "id": 143446048,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-08-01T04:51:47Z",
+                "open_issues": 4,
                 "owner": "buren",
                 "repo": "stockholm-api",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "api-client",
+                  "dataportalen",
+                  "npm-package",
+                  "stockholm-api"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -810,12 +1160,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gothenburg City Webservice library for Node.js",
+                "homepage": null,
                 "id": 2444352,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2012-06-27T12:25:35Z",
+                "open_issues": 0,
                 "owner": "oskarhagberg",
                 "repo": "gbgcity",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -839,12 +1194,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Console Radio 📻",
+                "homepage": "https://www.npmjs.com/package/sverigesradio",
                 "id": 119218702,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-07-14T23:51:33Z",
+                "open_issues": 7,
                 "owner": "ollelauribostrom",
                 "repo": "sverigesradio",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -862,12 +1222,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Go clients for MMS services",
+                "homepage": null,
                 "id": 85950604,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2021-03-18T14:48:51Z",
+                "open_issues": 0,
                 "owner": "TV4",
                 "repo": "mms",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "client",
+                  "go",
+                  "mms"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -885,12 +1254,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Translates SAB codes to Swedish subject",
+                "homepage": null,
                 "id": 658974,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2010-12-16T10:57:18Z",
+                "open_issues": 0,
                 "owner": "c7",
                 "repo": "ur-sab",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -909,12 +1283,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive ROT-avdrag (Swedish renovation tax deduction) calculator for 2026. By Zaragoza AB, Helsingborg.",
+            "homepage": null,
             "id": 1213004552,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-17T01:59:57Z",
+            "open_issues": 0,
             "owner": "zaragoza-ab",
             "repo": "rot-avdrag-calculator",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "bygg",
+              "calculator",
+              "cc-by-4-0",
+              "construction",
+              "open-data",
+              "rot",
+              "skatteverket",
+              "svenska",
+              "sweden",
+              "tax",
+              "webapp",
+              "zaragoza-ab"
+            ]
           },
           "first_seen": "2026-08-28T23:32:18.912Z"
         },
@@ -925,12 +1317,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive RUT-avdrag (household services tax deduction) calculator for 2026. 50%, max 75 000 SEK/person. By Zaragoza AB.",
+            "homepage": null,
             "id": 1213010261,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-17T01:59:59Z",
+            "open_issues": 0,
             "owner": "zaragoza-ab",
             "repo": "rut-avdrag-calculator",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "bygg",
+              "calculator",
+              "cc-by-4-0",
+              "construction",
+              "open-data",
+              "rut",
+              "skatteverket",
+              "svenska",
+              "sweden",
+              "tax",
+              "webapp",
+              "zaragoza-ab"
+            ]
           },
           "first_seen": "2026-08-28T23:32:18.912Z"
         },
@@ -941,12 +1351,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive 9-step checklist to verify a Swedish construction firm (F-skatt, insurance, ID06, references). Risk score. By Zaragoza AB.",
+            "homepage": null,
             "id": 1213010231,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-17T01:54:40Z",
+            "open_issues": 0,
             "owner": "zaragoza-ab",
             "repo": "entreprenor-verification-tool",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "bygg",
+              "cc-by-4-0",
+              "construction",
+              "consumer-protection",
+              "f-skatt",
+              "id06",
+              "open-data",
+              "svenska",
+              "sweden",
+              "verification",
+              "webapp",
+              "zaragoza-ab"
+            ]
           },
           "first_seen": "2026-08-28T23:32:18.912Z"
         },
@@ -957,12 +1385,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Complete checklist for Swedish building permits (bygglov). Helsingborg-focused, covers Skåne kommuner. Maintained by Zaragoza AB.",
+            "homepage": null,
             "id": 1213004513,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-04-17T01:54:24Z",
+            "open_issues": 0,
             "owner": "zaragoza-ab",
             "repo": "bygglov-checklist-sweden",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "building-permit",
+              "bygg",
+              "bygglov",
+              "cc-by-4-0",
+              "checklist",
+              "construction",
+              "helsingborg",
+              "open-data",
+              "svenska",
+              "sweden",
+              "zaragoza-ab"
+            ]
           },
           "first_seen": "2026-08-28T23:32:18.912Z"
         },
@@ -973,12 +1418,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Skatteverket-compliant personalliggare template for Swedish construction sites (mandatory since 2016). CSV, JSON schema, HTML form. By Zaragoza AB.",
+            "homepage": null,
             "id": 1213010134,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-04-17T01:54:33Z",
+            "open_issues": 0,
             "owner": "zaragoza-ab",
             "repo": "personalliggare-template",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "bygg",
+              "cc-by-4-0",
+              "compliance",
+              "construction",
+              "open-data",
+              "personalliggare",
+              "skatteverket",
+              "svenska",
+              "sweden",
+              "template",
+              "zaragoza-ab"
+            ]
           },
           "first_seen": "2026-08-28T23:32:18.912Z"
         },
@@ -989,12 +1451,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arbetsmiljöverket-compliant work environment plan template per AFS 1999:3. Riskbedömning, skyddsrond, incident-rapport. By Zaragoza AB.",
+            "homepage": null,
             "id": 1213010203,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-04-17T01:54:38Z",
+            "open_issues": 0,
             "owner": "zaragoza-ab",
             "repo": "arbetsmiljoplan-template",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "afs",
+              "arbetsmiljo",
+              "bygg",
+              "cc-by-4-0",
+              "construction",
+              "occupational-safety",
+              "open-data",
+              "svenska",
+              "sweden",
+              "template",
+              "zaragoza-ab"
+            ]
           },
           "first_seen": "2026-08-28T23:32:18.912Z"
         },
@@ -1005,12 +1484,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Complete guide to reverse VAT (omvänd skattskyldighet) in Swedish construction. Examples, common mistakes, invoice templates. By Zaragoza AB.",
+            "homepage": null,
             "id": 1213010163,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-04-17T01:54:35Z",
+            "open_issues": 0,
             "owner": "zaragoza-ab",
             "repo": "omvand-moms-bygg-guide",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "bygg",
+              "cc-by-4-0",
+              "construction",
+              "guide",
+              "moms",
+              "open-data",
+              "reverse-charge",
+              "svenska",
+              "sweden",
+              "tax",
+              "vat",
+              "zaragoza-ab"
+            ]
           },
           "first_seen": "2026-08-28T23:32:18.912Z"
         }
@@ -1032,12 +1529,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kolada API client provides access to standardized key performance indicators (KPI) concerning Swedish municipalities and organizational units.",
+                "homepage": null,
                 "id": 163732797,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-08-01T04:46:39Z",
+                "open_issues": 1,
                 "owner": "buren",
                 "repo": "kolada",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "kolada",
+                  "kpi",
+                  "municipalities",
+                  "sweden"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -1055,12 +1562,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Polisen API client",
+                "homepage": null,
                 "id": 145090994,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-08-01T04:16:10Z",
+                "open_issues": 1,
                 "owner": "buren",
                 "repo": "polisen-api",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "api-client",
+                  "npm-package",
+                  "polisen",
+                  "polisen-api"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -1078,12 +1595,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small API client for the SCB API.",
+                "homepage": null,
                 "id": 9580105,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2013-05-13T07:24:06Z",
+                "open_issues": 0,
                 "owner": "peterhellberg",
                 "repo": "scb",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -1101,12 +1623,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Javascript wrapper for the Swedish Meteorological and Hydrological Institute's API, packaged as a node module.",
+                "homepage": null,
                 "id": 17765771,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-03-11T05:15:27Z",
+                "open_issues": 1,
                 "owner": "thelinmichael",
                 "repo": "smhi-node",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             },
@@ -1117,12 +1644,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library for querying SMHI Open Data API for .NET",
+                "homepage": null,
                 "id": 88192584,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2018-03-19T00:51:25Z",
+                "open_issues": 0,
                 "owner": "piksel",
                 "repo": "SMHISharp",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             },
@@ -1133,12 +1665,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NodeJS wrapper for SMHI Open Data API - Meteorological Forecasts ",
+                "homepage": null,
                 "id": 98167038,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-07-27T19:47:18Z",
+                "open_issues": 0,
                 "owner": "peterstark72",
                 "repo": "smhi-nodejs",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -1156,12 +1693,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swedish phone number formatter",
+                "homepage": null,
                 "id": 75964766,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-03-24T10:03:13Z",
+                "open_issues": 2,
                 "owner": "svenheden",
                 "repo": "swedish-phone-number-formatter",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -1179,12 +1721,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swedish postal code validator",
+                "homepage": null,
                 "id": 121111916,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-04-09T03:24:35Z",
+                "open_issues": 2,
                 "owner": "svenheden",
                 "repo": "swedish-postal-code-validator",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             },
@@ -1195,12 +1742,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📬 Validation package in Go for Swedish zip codes",
+                "homepage": null,
                 "id": 166002458,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2019-11-20T15:05:19Z",
+                "open_issues": 0,
                 "owner": "bombsimon",
                 "repo": "swedish-zipcode",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "postal-codes",
+                  "swedish",
+                  "zip",
+                  "zip-code",
+                  "zip-codes"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             },
@@ -1211,12 +1769,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📬  Validation package in Rust for Swedish postal codes",
+                "homepage": null,
                 "id": 284441748,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2020-08-02T20:25:25Z",
+                "open_issues": 0,
                 "owner": "bombsimon",
                 "repo": "swedish-postal-codes",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -1234,12 +1797,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zip Codes Validation and Parse.",
+                "homepage": null,
                 "id": 154473057,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-11-01T11:52:24Z",
+                "open_issues": 0,
                 "owner": "vzhufk",
                 "repo": "z1p",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "data",
+                  "geo",
+                  "geocode",
+                  "geolocation",
+                  "latitude",
+                  "longitude",
+                  "zip",
+                  "zipcode"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -1257,12 +1834,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python API wrapper for Postnord tracking 📦",
+                "homepage": "https://postnord.se",
                 "id": 935938294,
                 "language": "Nix",
+                "license": "WTFPL",
                 "last_commit": "2025-12-16T22:33:59Z",
+                "open_issues": 1,
                 "owner": "dunderrrrrr",
                 "repo": "postnord_api",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "api",
+                  "package",
+                  "postnord",
+                  "python",
+                  "tracking"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -1280,12 +1868,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swedish cardinal numbers",
+                "homepage": null,
                 "id": 148532771,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-04-09T16:30:01Z",
+                "open_issues": 4,
                 "owner": "svenheden",
                 "repo": "swedish-cardinal-numbers",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -1303,12 +1896,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 168753730,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-06-25T05:52:32Z",
+                "open_issues": 1,
                 "owner": "filipchr",
                 "repo": "node-booli",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -1326,12 +1924,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🏡 Hemnet plugin for WordPress",
+                "homepage": null,
                 "id": 56449220,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2025-02-16T14:41:43Z",
+                "open_issues": 0,
                 "owner": "bombsimon",
                 "repo": "hemnet-plugin",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -1349,12 +1952,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The unofficial API for blocket.se",
+                "homepage": "https://blocket-api.se",
                 "id": 829455107,
                 "language": "Python",
+                "license": "WTFPL",
                 "last_commit": "2026-07-23T12:42:56Z",
+                "open_issues": 0,
                 "owner": "dunderrrrrr",
                 "repo": "blocket_api",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "api",
+                  "blocket",
+                  "blocket-api",
+                  "blocket-se-api",
+                  "blocketse",
+                  "python",
+                  "wrapper"
+                ]
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
             }
@@ -1365,15 +1981,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:32:18.912Z",
+    "last_updated": "2026-08-29T04:50:27.666Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome things to use when coding for the Swedish market.",
+      "homepage": null,
       "id": 135589659,
       "language": "Shell",
+      "license": "NOASSERTION",
       "last_commit": "2026-04-21T07:51:35Z",
+      "open_issues": 10,
       "owner": "buren",
       "repo": "awesome-sweden",
-      "stars": 208
+      "stars": 208,
+      "topics": [
+        "apis",
+        "awesome",
+        "awesome-list",
+        "libraries",
+        "lists",
+        "resources",
+        "sweden"
+      ]
     },
     "original_repository_sha": "8d2d2558c42b4501e9b7922931edd5daf056f17c",
     "enhanced_repository": "enhansome/enhansome-sweden",
