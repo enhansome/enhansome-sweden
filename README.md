@@ -35,7 +35,7 @@ A curated list of awesome things to use when coding for the Swedish market.
   * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Identity) ⭐ 58 | 🐛 18 | 🌐 F# | 📅 2026-04-10 (Also parses and normalizes the Personal Identity Number)
   * [PHP](https://github.com/personnummer/php) ⭐ 34 | 🐛 3 | 🌐 PHP | 📅 2026-08-11
   * [Ruby](https://github.com/c7/personnummer) ⭐ 21 | 🐛 0 | 🌐 Ruby | 📅 2020-03-01 (well tested)
-  * [PHP](https://github.com/byrokrat/id) ⭐ 15 | 🐛 0 | 🌐 PHP | 📅 2021-01-03
+  * [PHP](https://github.com/byrokrat/id) ⭐ 15 | 🐛 1 | 🌐 PHP | 📅 2021-01-03
   * [Python](https://github.com/personnummer/python) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-07-21
   * [Java](https://github.com/personnummer/java) ⭐ 9 | 🐛 4 | 🌐 Java | 📅 2026-08-25
   * [Go](https://github.com/personnummer/go) ⭐ 8 | 🐛 3 | 🌐 Go | 📅 2026-07-16
@@ -54,7 +54,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 * Validate Swedish Company Registration Number (organisationsnummer)
   * [Ruby](https://github.com/mirendo/orgnummer) ⭐ 4 | 🐛 0 | 🌐 Ruby | 📅 2022-03-18
   * [JavaScript](https://github.com/perarnborg/se-org-no) ⭐ 0 | 🐛 4 | 🌐 JavaScript | 📅 2023-01-07
-  * [PHP](https://github.com/byrokrat/id) ⭐ 15 | 🐛 0 | 🌐 PHP | 📅 2021-01-03
+  * [PHP](https://github.com/byrokrat/id) ⭐ 15 | 🐛 1 | 🌐 PHP | 📅 2021-01-03
   * [JavaScript](https://github.com/eckberg/se-orgnr-validator) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2019-08-16
   * [Go](https://github.com/bombsimon/go-personnummer) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2022-03-22
 
@@ -196,7 +196,7 @@ Contributions, feedback and suggestions are very welcome.
 
 **Before you start, make sure**
 
-1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 501,083 | 🐛 105 | 📅 2026-08-21)
+1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 501,382 | 🐛 105 | 📅 2026-08-21)
 2. The library is not already added to this list
 3. The library is somewhat stable
 
@@ -220,4 +220,4 @@ then
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

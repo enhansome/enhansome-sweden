@@ -196,7 +196,7 @@
                 "language": "PHP",
                 "license": "Unlicense",
                 "last_commit": "2021-01-03T22:47:48Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "byrokrat",
                 "repo": "id",
                 "stars": 15,
@@ -1981,7 +1981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:43:10.630Z",
+    "last_updated": "2026-08-30T18:03:31.773Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things to use when coding for the Swedish market.",
