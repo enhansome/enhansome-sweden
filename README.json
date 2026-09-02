@@ -767,8 +767,8 @@
                 "id": 76806776,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-07-20T17:53:00Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-02T07:17:45Z",
+                "open_issues": 4,
                 "owner": "anyfin",
                 "repo": "bankid",
                 "stars": 72,
@@ -1981,7 +1981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T17:48:16.788Z",
+    "last_updated": "2026-09-02T17:53:09.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things to use when coding for the Swedish market.",
