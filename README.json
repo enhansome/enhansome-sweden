@@ -1981,7 +1981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:35:11.516Z",
+    "last_updated": "2026-09-05T16:48:42.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things to use when coding for the Swedish market.",
@@ -1993,7 +1993,7 @@
       "open_issues": 10,
       "owner": "buren",
       "repo": "awesome-sweden",
-      "stars": 208,
+      "stars": 209,
       "topics": [
         "apis",
         "awesome",

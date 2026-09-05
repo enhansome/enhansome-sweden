@@ -61,7 +61,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 ## Finance
 
 * Swish Merchant API
-  * [JavaScript](https://github.com/carlbarrdahl/swish-payments) ⭐ 10 | 🐛 15 | 🌐 TypeScript | 📅 2023-01-03 — Not actively [being maintained](https://github.com/buren/awesome-sweden/issues/15) ⭐ 208 | 🐛 10 | 🌐 Shell | 📅 2026-04-21.
+  * [JavaScript](https://github.com/carlbarrdahl/swish-payments) ⭐ 10 | 🐛 15 | 🌐 TypeScript | 📅 2023-01-03 — Not actively [being maintained](https://github.com/buren/awesome-sweden/issues/15) ⭐ 209 | 🐛 10 | 🌐 Shell | 📅 2026-04-21.
   * [Rust](https://github.com/drager/swish) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2018-12-02
   * [Go](https://github.com/frozzare/go-swish) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2024-08-21
 * Validate Swedish bank accounts
@@ -196,7 +196,7 @@ Contributions, feedback and suggestions are very welcome.
 
 **Before you start, make sure**
 
-1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 502,971 | 🐛 106 | 📅 2026-09-02)
+1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 503,242 | 🐛 106 | 📅 2026-09-02)
 2. The library is not already added to this list
 3. The library is somewhat stable
 
@@ -220,4 +220,4 @@ then
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
