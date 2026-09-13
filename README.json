@@ -1961,7 +1961,7 @@
                 "open_issues": 0,
                 "owner": "dunderrrrrr",
                 "repo": "blocket_api",
-                "stars": 44,
+                "stars": 45,
                 "topics": [
                   "api",
                   "blocket",
@@ -1981,7 +1981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:07:18.363Z",
+    "last_updated": "2026-09-13T17:23:55.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things to use when coding for the Swedish market.",
