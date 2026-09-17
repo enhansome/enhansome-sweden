@@ -771,7 +771,7 @@
                 "open_issues": 4,
                 "owner": "anyfin",
                 "repo": "bankid",
-                "stars": 72,
+                "stars": 73,
                 "topics": [
                   "bankid",
                   "cif-deposits",
@@ -1981,7 +1981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:10:49.500Z",
+    "last_updated": "2026-09-17T18:10:58.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things to use when coding for the Swedish market.",
