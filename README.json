@@ -84,11 +84,11 @@
                 "id": 27436432,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T11:36:11Z",
+                "last_commit": "2026-09-18T03:13:43Z",
                 "open_issues": 11,
                 "owner": "personnummer",
                 "repo": "js",
-                "stars": 59,
+                "stars": 58,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -150,7 +150,7 @@
                 "open_issues": 3,
                 "owner": "personnummer",
                 "repo": "php",
-                "stars": 34,
+                "stars": 33,
                 "topics": [
                   "hacktoberfest",
                   "personal-identity-number",
@@ -224,7 +224,7 @@
                 "open_issues": 1,
                 "owner": "personnummer",
                 "repo": "python",
-                "stars": 14,
+                "stars": 13,
                 "topics": [
                   "hacktoberfest",
                   "personal-identity-number",
@@ -546,7 +546,7 @@
                 "open_issues": 0,
                 "owner": "barsoom",
                 "repo": "banktools-se",
-                "stars": 34,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:32:18.912Z"
@@ -741,7 +741,7 @@
                 "open_issues": 28,
                 "owner": "ActiveLogin",
                 "repo": "ActiveLogin.Authentication",
-                "stars": 240,
+                "stars": 239,
                 "topics": [
                   "activelogin",
                   "authentication",
@@ -771,7 +771,7 @@
                 "open_issues": 4,
                 "owner": "anyfin",
                 "repo": "bankid",
-                "stars": 73,
+                "stars": 72,
                 "topics": [
                   "bankid",
                   "cif-deposits",
@@ -826,7 +826,7 @@
                 "open_issues": 28,
                 "owner": "ActiveLogin",
                 "repo": "ActiveLogin.Authentication",
-                "stars": 240,
+                "stars": 239,
                 "topics": [
                   "activelogin",
                   "authentication",
@@ -1957,7 +1957,7 @@
                 "id": 829455107,
                 "language": "Python",
                 "license": "WTFPL",
-                "last_commit": "2026-09-07T18:01:26Z",
+                "last_commit": "2026-09-18T08:03:42Z",
                 "open_issues": 0,
                 "owner": "dunderrrrrr",
                 "repo": "blocket_api",
@@ -1981,7 +1981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T18:10:58.598Z",
+    "last_updated": "2026-09-18T17:39:53.120Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things to use when coding for the Swedish market.",

@@ -31,12 +31,12 @@ A curated list of awesome things to use when coding for the Swedish market.
 ## People
 
 * Validate Swedish Personal Identity Number (personnummer / SSN)
-  * [JavaScript](https://github.com/personnummer/js) ⭐ 59 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-16
+  * [JavaScript](https://github.com/personnummer/js) ⭐ 58 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-18
   * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Identity) ⭐ 58 | 🐛 18 | 🌐 F# | 📅 2026-04-10 (Also parses and normalizes the Personal Identity Number)
-  * [PHP](https://github.com/personnummer/php) ⭐ 34 | 🐛 3 | 🌐 PHP | 📅 2026-08-11
+  * [PHP](https://github.com/personnummer/php) ⭐ 33 | 🐛 3 | 🌐 PHP | 📅 2026-08-11
   * [Ruby](https://github.com/c7/personnummer) ⭐ 21 | 🐛 0 | 🌐 Ruby | 📅 2020-03-01 (well tested)
   * [PHP](https://github.com/byrokrat/id) ⭐ 15 | 🐛 1 | 🌐 PHP | 📅 2021-01-03
-  * [Python](https://github.com/personnummer/python) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-07-21
+  * [Python](https://github.com/personnummer/python) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2026-07-21
   * [Java](https://github.com/personnummer/java) ⭐ 9 | 🐛 4 | 🌐 Java | 📅 2026-08-25
   * [Go](https://github.com/personnummer/go) ⭐ 8 | 🐛 3 | 🌐 Go | 📅 2026-07-16
   * [Ruby](https://github.com/personnummer/ruby) ⭐ 6 | 🐛 1 | 🌐 Ruby | 📅 2026-06-19
@@ -65,7 +65,7 @@ A curated list of awesome things to use when coding for the Swedish market.
   * [Rust](https://github.com/drager/swish) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2018-12-02
   * [Go](https://github.com/frozzare/go-swish) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2024-08-21
 * Validate Swedish bank accounts
-  * [Ruby](https://github.com/barsoom/banktools-se) ⭐ 34 | 🐛 0 | 🌐 Ruby | 📅 2026-06-24
+  * [Ruby](https://github.com/barsoom/banktools-se) ⭐ 33 | 🐛 0 | 🌐 Ruby | 📅 2026-06-24
   * [JavaScript](https://github.com/brocc-ab/se-bank-account-js) ⭐ 9 | 🐛 2 | 🌐 JavaScript | 📅 2023-12-15
   * [PHP](https://github.com/brocc-ab/se-bank-account-php) ⭐ 3 | 🐛 1 | 🌐 PHP | 📅 2023-12-15
 * Make BGC supplier payment files (a.k.a "leverantörsbetalningar")
@@ -80,11 +80,11 @@ A curated list of awesome things to use when coding for the Swedish market.
 ## Authentication
 
 * Authentication using BankID
-  * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) ⭐ 240 | 🐛 28 | 🌐 C# | 📅 2026-08-31 (With authentication handler for ASP.NET)
-  * [JavaScript](https://github.com/anyfin/bankid) ⭐ 73 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-02 by [Anyfin](https://anyfin.com/)
+  * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) ⭐ 239 | 🐛 28 | 🌐 C# | 📅 2026-08-31 (With authentication handler for ASP.NET)
+  * [JavaScript](https://github.com/anyfin/bankid) ⭐ 72 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-02 by [Anyfin](https://anyfin.com/)
   * [Android](https://github.com/spacecowboy/bankid-android-sample) ⭐ 5 | 🐛 0 | 🌐 Kotlin | 📅 2019-01-30 (Sample implementation)
 * Authentication using GrandID (Svensk E-Identitet)
-  * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) ⭐ 240 | 🐛 28 | 🌐 C# | 📅 2026-08-31 (With authentication handler for ASP.NET)
+  * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) ⭐ 239 | 🐛 28 | 🌐 C# | 📅 2026-08-31 (With authentication handler for ASP.NET)
 
 ## Job market
 
@@ -172,7 +172,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 * Hemnet
   * [PHP WordPress plugin](https://github.com/bombsimon/hemnet-plugin) ⚠️ Archived
 * Blocket
-  * [Python](https://github.com/dunderrrrrr/blocket_api) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2026-09-07
+  * [Python](https://github.com/dunderrrrrr/blocket_api) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2026-09-18
 
 ## Wish list
 
@@ -196,7 +196,7 @@ Contributions, feedback and suggestions are very welcome.
 
 **Before you start, make sure**
 
-1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 507,090 | 🐛 106 | 📅 2026-09-02)
+1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 507,426 | 🐛 106 | 📅 2026-09-02)
 2. The library is not already added to this list
 3. The library is somewhat stable
 
@@ -220,4 +220,4 @@ then
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
