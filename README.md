@@ -134,12 +134,12 @@ A curated list of awesome things to use when coding for the Swedish market.
 
 ## Construction
 
+* [Arbetsmiljöplan template](https://github.com/zaragoza-ab/arbetsmiljoplan-template) ⭐ 1 | 🐛 0 | 📅 2026-04-17 - AFS 1999:3 work environment plan template
 * [ROT-avdrag calculator](https://github.com/zaragoza-ab/rot-avdrag-calculator) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2026-04-17 - Interactive 2026 ROT tax deduction calculator (HTML/JS)
 * [RUT-avdrag calculator](https://github.com/zaragoza-ab/rut-avdrag-calculator) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2026-04-17 - Interactive 2026 RUT tax deduction calculator (HTML/JS)
 * [Entreprenör verification tool](https://github.com/zaragoza-ab/entreprenor-verification-tool) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2026-04-17 - 9-step checklist for verifying Swedish construction firms (F-skatt, insurance, ID06, references)
 * [Bygglov checklist](https://github.com/zaragoza-ab/bygglov-checklist-sweden) ⭐ 0 | 🐛 0 | 📅 2026-04-17 - Building permit checklist for Swedish kommuner (focused on Skåne)
 * [Personalliggare template](https://github.com/zaragoza-ab/personalliggare-template) ⭐ 0 | 🐛 0 | 📅 2026-04-17 - Skatteverket-compliant personnel ledger (HTML form + CSV/JSON schema)
-* [Arbetsmiljöplan template](https://github.com/zaragoza-ab/arbetsmiljoplan-template) ⭐ 0 | 🐛 0 | 📅 2026-04-17 - AFS 1999:3 work environment plan template
 * [Omvänd moms guide](https://github.com/zaragoza-ab/omvand-moms-bygg-guide) ⭐ 0 | 🐛 0 | 📅 2026-04-17 - Reverse-charge VAT guide with invoice templates
 
 ## Misc
@@ -196,7 +196,7 @@ Contributions, feedback and suggestions are very welcome.
 
 **Before you start, make sure**
 
-1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 507,794 | 🐛 106 | 📅 2026-09-02)
+1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 508,155 | 🐛 106 | 📅 2026-09-02)
 2. The library is not already added to this list
 3. The library is somewhat stable
 
@@ -220,4 +220,4 @@ then
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

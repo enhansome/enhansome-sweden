@@ -1278,6 +1278,39 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Arbetsmiljöplan template",
+          "description": "AFS 1999:3 work environment plan template",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Arbetsmiljöverket-compliant work environment plan template per AFS 1999:3. Riskbedömning, skyddsrond, incident-rapport. By Zaragoza AB.",
+            "homepage": null,
+            "id": 1213010203,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2026-04-17T01:54:38Z",
+            "open_issues": 0,
+            "owner": "zaragoza-ab",
+            "repo": "arbetsmiljoplan-template",
+            "stars": 1,
+            "topics": [
+              "afs",
+              "arbetsmiljo",
+              "bygg",
+              "cc-by-4-0",
+              "construction",
+              "occupational-safety",
+              "open-data",
+              "svenska",
+              "sweden",
+              "template",
+              "zaragoza-ab"
+            ]
+          },
+          "first_seen": "2026-08-28T23:32:18.912Z"
+        },
+        {
+          "node_type": "item",
           "title": "ROT-avdrag calculator",
           "description": "Interactive 2026 ROT tax deduction calculator (HTML/JS)",
           "children": [],
@@ -1436,39 +1469,6 @@
               "open-data",
               "personalliggare",
               "skatteverket",
-              "svenska",
-              "sweden",
-              "template",
-              "zaragoza-ab"
-            ]
-          },
-          "first_seen": "2026-08-28T23:32:18.912Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Arbetsmiljöplan template",
-          "description": "AFS 1999:3 work environment plan template",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Arbetsmiljöverket-compliant work environment plan template per AFS 1999:3. Riskbedömning, skyddsrond, incident-rapport. By Zaragoza AB.",
-            "homepage": null,
-            "id": 1213010203,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-04-17T01:54:38Z",
-            "open_issues": 0,
-            "owner": "zaragoza-ab",
-            "repo": "arbetsmiljoplan-template",
-            "stars": 0,
-            "topics": [
-              "afs",
-              "arbetsmiljo",
-              "bygg",
-              "cc-by-4-0",
-              "construction",
-              "occupational-safety",
-              "open-data",
               "svenska",
               "sweden",
               "template",
@@ -1981,7 +1981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T17:15:48.667Z",
+    "last_updated": "2026-09-20T17:27:23.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things to use when coding for the Swedish market.",
