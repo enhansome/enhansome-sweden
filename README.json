@@ -84,7 +84,7 @@
                 "id": 27436432,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T02:06:10Z",
+                "last_commit": "2026-09-21T21:13:49Z",
                 "open_issues": 11,
                 "owner": "personnummer",
                 "repo": "js",
@@ -741,7 +741,7 @@
                 "open_issues": 28,
                 "owner": "ActiveLogin",
                 "repo": "ActiveLogin.Authentication",
-                "stars": 239,
+                "stars": 240,
                 "topics": [
                   "activelogin",
                   "authentication",
@@ -826,7 +826,7 @@
                 "open_issues": 28,
                 "owner": "ActiveLogin",
                 "repo": "ActiveLogin.Authentication",
-                "stars": 239,
+                "stars": 240,
                 "topics": [
                   "activelogin",
                   "authentication",
@@ -1981,7 +1981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T19:24:55.628Z",
+    "last_updated": "2026-09-22T18:03:42.084Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things to use when coding for the Swedish market.",
