@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "buren",
             "repo": "awesome-sweden-datasets",
-            "stars": 29,
+            "stars": 30,
             "topics": [
               "apis",
               "awesome",
@@ -48,7 +48,7 @@
             "open_issues": 5,
             "owner": "buren",
             "repo": "awesome-sweden-datasets",
-            "stars": 29,
+            "stars": 30,
             "topics": [
               "apis",
               "awesome",
@@ -1981,7 +1981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T18:33:57.576Z",
+    "last_updated": "2026-09-26T17:44:29.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things to use when coding for the Swedish market.",
