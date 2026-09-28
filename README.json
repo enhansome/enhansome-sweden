@@ -84,7 +84,7 @@
                 "id": 27436432,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-25T15:56:21Z",
+                "last_commit": "2026-09-28T18:49:02Z",
                 "open_issues": 11,
                 "owner": "personnummer",
                 "repo": "js",
@@ -1806,7 +1806,7 @@
                 "open_issues": 0,
                 "owner": "vzhufk",
                 "repo": "z1p",
-                "stars": 19,
+                "stars": 20,
                 "topics": [
                   "data",
                   "geo",
@@ -1981,7 +1981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T18:20:44.832Z",
+    "last_updated": "2026-09-28T20:32:22.775Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things to use when coding for the Swedish market.",
