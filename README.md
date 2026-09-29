@@ -26,7 +26,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 ## AI
 
 * Transcribe Swedish
-  * [KB-Whisper](https://github.com/PierreMesure/whisper-web) ⭐ 35 | 🐛 6 | 🌐 TypeScript | 📅 2026-03-30
+  * [KB-Whisper](https://github.com/PierreMesure/whisper-web) ⭐ 35 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-29
 
 ## People
 
@@ -196,7 +196,7 @@ Contributions, feedback and suggestions are very welcome.
 
 **Before you start, make sure**
 
-1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 511,946 | 🐛 106 | 📅 2026-09-02)
+1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 512,375 | 🐛 106 | 📅 2026-09-02)
 2. The library is not already added to this list
 3. The library is somewhat stable
 
@@ -220,4 +220,4 @@ then
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
