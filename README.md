@@ -31,7 +31,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 ## People
 
 * Validate Swedish Personal Identity Number (personnummer / SSN)
-  * [JavaScript](https://github.com/personnummer/js) ⭐ 58 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-28
+  * [JavaScript](https://github.com/personnummer/js) ⭐ 58 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-01
   * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Identity) ⭐ 58 | 🐛 18 | 🌐 F# | 📅 2026-04-10 (Also parses and normalizes the Personal Identity Number)
   * [PHP](https://github.com/personnummer/php) ⭐ 33 | 🐛 3 | 🌐 PHP | 📅 2026-08-11
   * [Ruby](https://github.com/c7/personnummer) ⭐ 21 | 🐛 0 | 🌐 Ruby | 📅 2020-03-01 (well tested)
@@ -65,7 +65,7 @@ A curated list of awesome things to use when coding for the Swedish market.
   * [Rust](https://github.com/drager/swish) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2018-12-02
   * [Go](https://github.com/frozzare/go-swish) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2024-08-21
 * Validate Swedish bank accounts
-  * [Ruby](https://github.com/barsoom/banktools-se) ⭐ 34 | 🐛 0 | 🌐 Ruby | 📅 2026-06-24
+  * [Ruby](https://github.com/barsoom/banktools-se) ⭐ 34 | 🐛 0 | 🌐 Ruby | 📅 2026-10-01
   * [JavaScript](https://github.com/brocc-ab/se-bank-account-js) ⭐ 9 | 🐛 2 | 🌐 JavaScript | 📅 2023-12-15
   * [PHP](https://github.com/brocc-ab/se-bank-account-php) ⭐ 3 | 🐛 1 | 🌐 PHP | 📅 2023-12-15
 * Make BGC supplier payment files (a.k.a "leverantörsbetalningar")
@@ -196,7 +196,7 @@ Contributions, feedback and suggestions are very welcome.
 
 **Before you start, make sure**
 
-1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 512,808 | 🐛 106 | 📅 2026-09-02)
+1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 513,205 | 🐛 106 | 📅 2026-09-02)
 2. The library is not already added to this list
 3. The library is somewhat stable
 
@@ -220,4 +220,4 @@ then
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
