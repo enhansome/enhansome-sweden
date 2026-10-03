@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": ":link: Awesome Sweden Datasets",
-          "description": null,
+          "description": "buren/awesome-sweden-datasets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -35,7 +35,7 @@
         {
           "node_type": "item",
           "title": "Looking for datasets? See Awesome Sweden Datasets",
-          "description": ".",
+          "description": "buren/awesome-sweden-datasets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -75,7 +75,7 @@
             {
               "node_type": "item",
               "title": "JavaScript",
-              "description": null,
+              "description": "personnummer/js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -84,7 +84,7 @@
                 "id": 27436432,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T10:02:42Z",
+                "last_commit": "2026-10-02T20:34:25Z",
                 "open_issues": 12,
                 "owner": "personnummer",
                 "repo": "js",
@@ -137,7 +137,7 @@
             {
               "node_type": "item",
               "title": "PHP",
-              "description": null,
+              "description": "personnummer/php",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -186,7 +186,7 @@
             {
               "node_type": "item",
               "title": "PHP",
-              "description": null,
+              "description": "byrokrat/id",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -211,7 +211,7 @@
             {
               "node_type": "item",
               "title": "Python",
-              "description": null,
+              "description": "personnummer/python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -239,7 +239,7 @@
             {
               "node_type": "item",
               "title": "Java",
-              "description": null,
+              "description": "personnummer/java",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -267,7 +267,7 @@
             {
               "node_type": "item",
               "title": "Go",
-              "description": null,
+              "description": "personnummer/go",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -294,7 +294,7 @@
             {
               "node_type": "item",
               "title": "Ruby",
-              "description": null,
+              "description": "personnummer/ruby",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -322,7 +322,7 @@
             {
               "node_type": "item",
               "title": "Swift",
-              "description": null,
+              "description": "personnummer/swift",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -350,7 +350,7 @@
             {
               "node_type": "item",
               "title": "JavaScript",
-              "description": null,
+              "description": "arokor/pernr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -371,7 +371,7 @@
             {
               "node_type": "item",
               "title": "JavaScript",
-              "description": null,
+              "description": "svenheden/swedish-personal-identity-number-validator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -392,7 +392,7 @@
             {
               "node_type": "item",
               "title": "Go",
-              "description": null,
+              "description": "bombsimon/go-personnummer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -420,7 +420,7 @@
             {
               "node_type": "item",
               "title": "JavaScript",
-              "description": null,
+              "description": "Yepstr/node-statenspersonadressregister",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -475,7 +475,7 @@
             {
               "node_type": "item",
               "title": "Rust",
-              "description": null,
+              "description": "drager/swish",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -502,7 +502,7 @@
             {
               "node_type": "item",
               "title": "Go",
-              "description": null,
+              "description": "frozzare/go-swish",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -533,7 +533,7 @@
             {
               "node_type": "item",
               "title": "Ruby",
-              "description": null,
+              "description": "barsoom/banktools-se",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -554,7 +554,7 @@
             {
               "node_type": "item",
               "title": "JavaScript",
-              "description": null,
+              "description": "brocc-ab/se-bank-account-js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -575,7 +575,7 @@
             {
               "node_type": "item",
               "title": "PHP",
-              "description": null,
+              "description": "brocc-ab/se-bank-account-php",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -603,7 +603,7 @@
             {
               "node_type": "item",
               "title": "Ruby",
-              "description": null,
+              "description": "barsoom/supplier_payments",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -631,7 +631,7 @@
             {
               "node_type": "item",
               "title": "Ruby",
-              "description": null,
+              "description": "barsoom/debitech",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -659,7 +659,7 @@
             {
               "node_type": "item",
               "title": "Ruby",
-              "description": null,
+              "description": "barsoom/sie",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -687,7 +687,7 @@
             {
               "node_type": "item",
               "title": "Go",
-              "description": null,
+              "description": "zeevallin/riksbank",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -856,7 +856,7 @@
             {
               "node_type": "item",
               "title": "Ruby",
-              "description": null,
+              "description": "buren/metrojobb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -887,7 +887,7 @@
             {
               "node_type": "item",
               "title": "Ruby",
-              "description": null,
+              "description": "buren/arbetsformedlingen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -922,7 +922,7 @@
             {
               "node_type": "item",
               "title": "Ruby",
-              "description": null,
+              "description": "buren/arbetsformedlingen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -950,7 +950,7 @@
             {
               "node_type": "item",
               "title": "JavaScript",
-              "description": null,
+              "description": "othermachines/platsbanken-vacancy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1005,7 +1005,7 @@
             {
               "node_type": "item",
               "title": "Javascript",
-              "description": null,
+              "description": "rebelliard/stockholm-transit-api",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1030,7 +1030,7 @@
             {
               "node_type": "item",
               "title": "Go",
-              "description": null,
+              "description": "frozzare/go-sl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1061,7 +1061,7 @@
             {
               "node_type": "item",
               "title": "JavaScript",
-              "description": null,
+              "description": "oskarhagberg/node-vasttrafik",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1089,7 +1089,7 @@
             {
               "node_type": "item",
               "title": "JavaScript",
-              "description": null,
+              "description": "eduardoportilho/trafikverket",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1123,7 +1123,7 @@
             {
               "node_type": "item",
               "title": "JavaScript",
-              "description": null,
+              "description": "buren/stockholm-api",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1156,7 +1156,7 @@
             {
               "node_type": "item",
               "title": "JavaScript",
-              "description": null,
+              "description": "oskarhagberg/gbgcity",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1190,7 +1190,7 @@
             {
               "node_type": "item",
               "title": "JavaScript (CLI)",
-              "description": null,
+              "description": "ollelauribostrom/sverigesradio",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1218,7 +1218,7 @@
             {
               "node_type": "item",
               "title": "Go",
-              "description": null,
+              "description": "TV4/mms",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1250,7 +1250,7 @@
             {
               "node_type": "item",
               "title": "Ruby",
-              "description": null,
+              "description": "c7/ur-sab",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1525,7 +1525,7 @@
             {
               "node_type": "item",
               "title": "JavaScript",
-              "description": null,
+              "description": "buren/kolada",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1591,7 +1591,7 @@
             {
               "node_type": "item",
               "title": "Ruby",
-              "description": null,
+              "description": "peterhellberg/scb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1619,7 +1619,7 @@
             {
               "node_type": "item",
               "title": "JavaScript",
-              "description": null,
+              "description": "thelinmichael/smhi-node",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1640,7 +1640,7 @@
             {
               "node_type": "item",
               "title": "C#",
-              "description": null,
+              "description": "piksel/SMHISharp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1661,7 +1661,7 @@
             {
               "node_type": "item",
               "title": "JavaScript",
-              "description": null,
+              "description": "peterstark72/smhi-nodejs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1689,7 +1689,7 @@
             {
               "node_type": "item",
               "title": "JavaScript",
-              "description": null,
+              "description": "svenheden/swedish-phone-number-formatter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1717,7 +1717,7 @@
             {
               "node_type": "item",
               "title": "JavaScript",
-              "description": null,
+              "description": "svenheden/swedish-postal-code-validator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1738,7 +1738,7 @@
             {
               "node_type": "item",
               "title": "Go",
-              "description": null,
+              "description": "bombsimon/swedish-zipcode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1765,7 +1765,7 @@
             {
               "node_type": "item",
               "title": "Rust",
-              "description": null,
+              "description": "bombsimon/swedish-postal-codes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1793,7 +1793,7 @@
             {
               "node_type": "item",
               "title": "JavaScript",
-              "description": null,
+              "description": "vzhufk/z1p",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1830,7 +1830,7 @@
             {
               "node_type": "item",
               "title": "Python",
-              "description": null,
+              "description": "dunderrrrrr/postnord_api",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1864,7 +1864,7 @@
             {
               "node_type": "item",
               "title": "JavaScript",
-              "description": null,
+              "description": "svenheden/swedish-cardinal-numbers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1892,7 +1892,7 @@
             {
               "node_type": "item",
               "title": "JavaScript",
-              "description": null,
+              "description": "filipchr/node-booli",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1920,7 +1920,7 @@
             {
               "node_type": "item",
               "title": "PHP WordPress plugin",
-              "description": null,
+              "description": "bombsimon/hemnet-plugin",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1948,7 +1948,7 @@
             {
               "node_type": "item",
               "title": "Python",
-              "description": null,
+              "description": "dunderrrrrr/blocket_api",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1981,7 +1981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:16:17.179Z",
+    "last_updated": "2026-10-03T05:08:53.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things to use when coding for the Swedish market.",
