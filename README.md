@@ -31,7 +31,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 ## People
 
 * Validate Swedish Personal Identity Number (personnummer / SSN)
-  * [JavaScript](https://github.com/personnummer/js) ⭐ 58 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-06
+  * [JavaScript](https://github.com/personnummer/js) ⭐ 58 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-06
   * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Identity) ⭐ 58 | 🐛 18 | 🌐 F# | 📅 2026-04-10 (Also parses and normalizes the Personal Identity Number)
   * [PHP](https://github.com/personnummer/php) ⭐ 33 | 🐛 1 | 🌐 PHP | 📅 2026-10-06
   * [Ruby](https://github.com/c7/personnummer) ⭐ 21 | 🐛 0 | 🌐 Ruby | 📅 2020-03-01 (well tested)
@@ -196,7 +196,7 @@ Contributions, feedback and suggestions are very welcome.
 
 **Before you start, make sure**
 
-1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 515,364 | 🐛 106 | 📅 2026-09-02)
+1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 515,569 | 🐛 106 | 📅 2026-09-02)
 2. The library is not already added to this list
 3. The library is somewhat stable
 
