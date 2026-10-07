@@ -31,19 +31,19 @@ A curated list of awesome things to use when coding for the Swedish market.
 ## People
 
 * Validate Swedish Personal Identity Number (personnummer / SSN)
-  * [JavaScript](https://github.com/personnummer/js) ⭐ 58 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-06
+  * [JavaScript](https://github.com/personnummer/js) ⭐ 58 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-07
   * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Identity) ⭐ 58 | 🐛 18 | 🌐 F# | 📅 2026-04-10 (Also parses and normalizes the Personal Identity Number)
   * [PHP](https://github.com/personnummer/php) ⭐ 33 | 🐛 1 | 🌐 PHP | 📅 2026-10-06
   * [Ruby](https://github.com/c7/personnummer) ⭐ 21 | 🐛 0 | 🌐 Ruby | 📅 2020-03-01 (well tested)
   * [PHP](https://github.com/byrokrat/id) ⭐ 15 | 🐛 1 | 🌐 PHP | 📅 2021-01-03
   * [Python](https://github.com/personnummer/python) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2026-10-06
-  * [Java](https://github.com/personnummer/java) ⭐ 9 | 🐛 4 | 🌐 Java | 📅 2026-10-06
-  * [Go](https://github.com/personnummer/go) ⭐ 8 | 🐛 2 | 🌐 Go | 📅 2026-10-06
+  * [Java](https://github.com/personnummer/java) ⭐ 9 | 🐛 2 | 🌐 Java | 📅 2026-10-07
   * [Ruby](https://github.com/personnummer/ruby) ⭐ 6 | 🐛 1 | 🌐 Ruby | 📅 2026-10-06
-  * [Swift](https://github.com/personnummer/swift) ⭐ 4 | 🐛 2 | 🌐 Swift | 📅 2026-10-06
+  * [Swift](https://github.com/personnummer/swift) ⭐ 4 | 🐛 3 | 🌐 Swift | 📅 2026-10-07
   * [JavaScript](https://github.com/arokor/pernr) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2018-04-07
   * [JavaScript](https://github.com/svenheden/swedish-personal-identity-number-validator) ⭐ 1 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-02
   * [Go](https://github.com/bombsimon/go-personnummer) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2022-03-22
+  * [Go](https://github.com/personnummer/go) ⭐ 0 | 🐛 1 | 🌐 Go | 📅 2026-10-07
   * Various other implementations are available under [this GitHub organization](https://github.com/personnummer), please note that some listed there are still WIP.
 * Statens personadressregister
   * [JavaScript](https://github.com/Yepstr/node-statenspersonadressregister) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2017-06-05
@@ -196,7 +196,7 @@ Contributions, feedback and suggestions are very welcome.
 
 **Before you start, make sure**
 
-1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 515,569 | 🐛 106 | 📅 2026-09-02)
+1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 516,025 | 🐛 106 | 📅 2026-09-02)
 2. The library is not already added to this list
 3. The library is somewhat stable
 
@@ -220,4 +220,4 @@ then
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
