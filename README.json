@@ -249,7 +249,7 @@
                 "open_issues": 2,
                 "owner": "personnummer",
                 "repo": "java",
-                "stars": 9,
+                "stars": 11,
                 "topics": [
                   "java",
                   "personal-identity-number",
@@ -1975,7 +1975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:32:32.590Z",
+    "last_updated": "2026-10-11T18:51:39.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things to use when coding for the Swedish market.",
