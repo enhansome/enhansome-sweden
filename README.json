@@ -84,7 +84,7 @@
                 "id": 27436432,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-10T12:22:27Z",
+                "last_commit": "2026-10-12T15:29:28Z",
                 "open_issues": 2,
                 "owner": "personnummer",
                 "repo": "js",
@@ -1975,7 +1975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T18:51:39.652Z",
+    "last_updated": "2026-10-12T22:07:39.293Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things to use when coding for the Swedish market.",
@@ -1987,7 +1987,7 @@
       "open_issues": 10,
       "owner": "buren",
       "repo": "awesome-sweden",
-      "stars": 208,
+      "stars": 209,
       "topics": [
         "apis",
         "awesome",
