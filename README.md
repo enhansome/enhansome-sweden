@@ -31,13 +31,13 @@ A curated list of awesome things to use when coding for the Swedish market.
 ## People
 
 * Validate Swedish Personal Identity Number (personnummer / SSN)
-  * [JavaScript](https://github.com/personnummer/js) ⭐ 58 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-13
+  * [JavaScript](https://github.com/personnummer/js) ⭐ 58 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-15
   * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Identity) ⭐ 58 | 🐛 18 | 🌐 F# | 📅 2026-04-10 (Also parses and normalizes the Personal Identity Number)
   * [PHP](https://github.com/personnummer/php) ⭐ 33 | 🐛 2 | 🌐 PHP | 📅 2026-10-13
   * [Ruby](https://github.com/c7/personnummer) ⭐ 21 | 🐛 0 | 🌐 Ruby | 📅 2020-03-01 (well tested)
   * [PHP](https://github.com/byrokrat/id) ⭐ 15 | 🐛 1 | 🌐 PHP | 📅 2021-01-03
-  * [Python](https://github.com/personnummer/python) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2026-10-13
-  * [Java](https://github.com/personnummer/java) ⭐ 11 | 🐛 3 | 🌐 Java | 📅 2026-10-13
+  * [Python](https://github.com/personnummer/python) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2026-10-15
+  * [Java](https://github.com/personnummer/java) ⭐ 11 | 🐛 3 | 🌐 Java | 📅 2026-10-15
   * [Ruby](https://github.com/personnummer/ruby) ⭐ 6 | 🐛 2 | 🌐 Ruby | 📅 2026-10-13
   * [Swift](https://github.com/personnummer/swift) ⭐ 4 | 🐛 4 | 🌐 Swift | 📅 2026-10-13
   * [JavaScript](https://github.com/arokor/pernr) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2018-04-07
@@ -66,8 +66,8 @@ A curated list of awesome things to use when coding for the Swedish market.
   * [Go](https://github.com/frozzare/go-swish) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2024-08-21
 * Validate Swedish bank accounts
   * [Ruby](https://github.com/barsoom/banktools-se) ⭐ 34 | 🐛 0 | 🌐 Ruby | 📅 2026-10-05
-  * [JavaScript](https://github.com/brocc-ab/se-bank-account-js) ⭐ 9 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-14
-  * [PHP](https://github.com/brocc-ab/se-bank-account-php) ⭐ 3 | 🐛 2 | 🌐 PHP | 📅 2026-10-14
+  * [JavaScript](https://github.com/brocc-ab/se-bank-account-js) ⭐ 9 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-15
+  * [PHP](https://github.com/brocc-ab/se-bank-account-php) ⭐ 4 | 🐛 1 | 🌐 PHP | 📅 2026-10-15
 * Make BGC supplier payment files (a.k.a "leverantörsbetalningar")
   * [Ruby](https://github.com/barsoom/supplier_payments) ⭐ 1 | 🐛 0 | 🌐 Ruby | 📅 2026-06-23
 * Payments using DebiTech (DIBS)
@@ -196,7 +196,7 @@ Contributions, feedback and suggestions are very welcome.
 
 **Before you start, make sure**
 
-1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 518,918 | 🐛 105 | 📅 2026-09-02)
+1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 519,405 | 🐛 105 | 📅 2026-09-02)
 2. The library is not already added to this list
 3. The library is somewhat stable
 
@@ -220,4 +220,4 @@ then
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
