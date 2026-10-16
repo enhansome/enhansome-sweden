@@ -731,8 +731,8 @@
                 "id": 139032835,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-09T15:11:41Z",
-                "open_issues": 25,
+                "last_commit": "2026-10-16T13:32:33Z",
+                "open_issues": 22,
                 "owner": "ActiveLogin",
                 "repo": "ActiveLogin.Authentication",
                 "stars": 241,
@@ -816,8 +816,8 @@
                 "id": 139032835,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-09T15:11:41Z",
-                "open_issues": 25,
+                "last_commit": "2026-10-16T13:32:33Z",
+                "open_issues": 22,
                 "owner": "ActiveLogin",
                 "repo": "ActiveLogin.Authentication",
                 "stars": 241,
@@ -1975,7 +1975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T18:15:14.413Z",
+    "last_updated": "2026-10-16T18:00:37.761Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things to use when coding for the Swedish market.",
