@@ -389,7 +389,7 @@
                 "id": 1408750891,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-13T13:03:49Z",
+                "last_commit": "2026-10-17T04:00:32Z",
                 "open_issues": 2,
                 "owner": "personnummer",
                 "repo": "go",
@@ -1975,7 +1975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:00:37.761Z",
+    "last_updated": "2026-10-17T17:07:28.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things to use when coding for the Swedish market.",

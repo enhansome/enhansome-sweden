@@ -26,7 +26,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 ## AI
 
 * Transcribe Swedish
-  * [KB-Whisper](https://github.com/PierreMesure/whisper-web) ⭐ 35 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-29
+  * [KB-Whisper](https://github.com/PierreMesure/whisper-web) ⭐ 36 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-29
 
 ## People
 
@@ -43,7 +43,7 @@ A curated list of awesome things to use when coding for the Swedish market.
   * [JavaScript](https://github.com/arokor/pernr) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2018-04-07
   * [JavaScript](https://github.com/svenheden/swedish-personal-identity-number-validator) ⭐ 1 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-02
   * [Go](https://github.com/bombsimon/go-personnummer) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2022-03-22
-  * [Go](https://github.com/personnummer/go) ⭐ 0 | 🐛 2 | 🌐 Go | 📅 2026-10-13
+  * [Go](https://github.com/personnummer/go) ⭐ 0 | 🐛 2 | 🌐 Go | 📅 2026-10-17
   * Various other implementations are available under [this GitHub organization](https://github.com/personnummer), please note that some listed there are still WIP.
 * Statens personadressregister
   * [JavaScript](https://github.com/Yepstr/node-statenspersonadressregister) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2017-06-05
@@ -196,7 +196,7 @@ Contributions, feedback and suggestions are very welcome.
 
 **Before you start, make sure**
 
-1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 519,899 | 🐛 105 | 📅 2026-09-02)
+1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 520,351 | 🐛 105 | 📅 2026-09-02)
 2. The library is not already added to this list
 3. The library is somewhat stable
 
@@ -220,4 +220,4 @@ then
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
