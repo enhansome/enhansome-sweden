@@ -1951,7 +1951,7 @@
                 "id": 829455107,
                 "language": "Python",
                 "license": "WTFPL",
-                "last_commit": "2026-10-21T14:54:02Z",
+                "last_commit": "2026-10-22T11:08:06Z",
                 "open_issues": 0,
                 "owner": "dunderrrrrr",
                 "repo": "blocket_api",
@@ -1975,7 +1975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T18:35:10.250Z",
+    "last_updated": "2026-10-22T18:30:01.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things to use when coding for the Swedish market.",

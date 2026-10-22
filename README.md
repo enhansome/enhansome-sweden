@@ -172,7 +172,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 * Hemnet
   * [PHP WordPress plugin](https://github.com/bombsimon/hemnet-plugin) ⚠️ Archived
 * Blocket
-  * [Python](https://github.com/dunderrrrrr/blocket_api) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2026-10-21
+  * [Python](https://github.com/dunderrrrrr/blocket_api) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2026-10-22
 
 ## Wish list
 
@@ -196,7 +196,7 @@ Contributions, feedback and suggestions are very welcome.
 
 **Before you start, make sure**
 
-1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 522,291 | 🐛 105 | 📅 2026-09-02)
+1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 522,920 | 🐛 105 | 📅 2026-09-02)
 2. The library is not already added to this list
 3. The library is somewhat stable
 
@@ -220,4 +220,4 @@ then
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
