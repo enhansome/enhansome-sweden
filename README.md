@@ -37,8 +37,8 @@ A curated list of awesome things to use when coding for the Swedish market.
   * [Ruby](https://github.com/c7/personnummer) ⭐ 21 | 🐛 0 | 🌐 Ruby | 📅 2020-03-01 (well tested)
   * [PHP](https://github.com/byrokrat/id) ⭐ 15 | 🐛 1 | 🌐 PHP | 📅 2021-01-03
   * [Python](https://github.com/personnummer/python) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2026-10-21
-  * [Java](https://github.com/personnummer/java) ⭐ 11 | 🐛 2 | 🌐 Java | 📅 2026-10-20
-  * [Ruby](https://github.com/personnummer/ruby) ⭐ 6 | 🐛 1 | 🌐 Ruby | 📅 2026-10-19
+  * [Java](https://github.com/personnummer/java) ⭐ 11 | 🐛 2 | 🌐 Java | 📅 2026-10-22
+  * [Ruby](https://github.com/personnummer/ruby) ⭐ 6 | 🐛 1 | 🌐 Ruby | 📅 2026-10-23
   * [Swift](https://github.com/personnummer/swift) ⭐ 4 | 🐛 3 | 🌐 Swift | 📅 2026-10-19
   * [JavaScript](https://github.com/arokor/pernr) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2018-04-07
   * [JavaScript](https://github.com/svenheden/swedish-personal-identity-number-validator) ⭐ 1 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-02
@@ -172,7 +172,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 * Hemnet
   * [PHP WordPress plugin](https://github.com/bombsimon/hemnet-plugin) ⚠️ Archived
 * Blocket
-  * [Python](https://github.com/dunderrrrrr/blocket_api) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2026-10-22
+  * [Python](https://github.com/dunderrrrrr/blocket_api) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2026-10-23
 
 ## Wish list
 
@@ -196,7 +196,7 @@ Contributions, feedback and suggestions are very welcome.
 
 **Before you start, make sure**
 
-1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 522,920 | 🐛 105 | 📅 2026-09-02)
+1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 523,542 | 🐛 105 | 📅 2026-09-02)
 2. The library is not already added to this list
 3. The library is somewhat stable
 
@@ -220,4 +220,4 @@ then
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._

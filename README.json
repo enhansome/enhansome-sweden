@@ -245,7 +245,7 @@
                 "id": 107652190,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-20T22:30:29Z",
+                "last_commit": "2026-10-22T22:13:02Z",
                 "open_issues": 2,
                 "owner": "personnummer",
                 "repo": "java",
@@ -272,7 +272,7 @@
                 "id": 107791379,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-10-19T08:44:11Z",
+                "last_commit": "2026-10-23T03:05:41Z",
                 "open_issues": 1,
                 "owner": "personnummer",
                 "repo": "ruby",
@@ -1951,7 +1951,7 @@
                 "id": 829455107,
                 "language": "Python",
                 "license": "WTFPL",
-                "last_commit": "2026-10-22T11:08:06Z",
+                "last_commit": "2026-10-23T08:54:33Z",
                 "open_issues": 0,
                 "owner": "dunderrrrrr",
                 "repo": "blocket_api",
@@ -1975,7 +1975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T18:30:01.611Z",
+    "last_updated": "2026-10-23T18:17:16.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things to use when coding for the Swedish market.",
