@@ -84,8 +84,8 @@
                 "id": 27436432,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-24T21:46:13Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-26T01:23:54Z",
+                "open_issues": 3,
                 "owner": "personnummer",
                 "repo": "js",
                 "stars": 58,
@@ -245,7 +245,7 @@
                 "id": 107652190,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-24T21:00:38Z",
+                "last_commit": "2026-10-26T17:44:12Z",
                 "open_issues": 2,
                 "owner": "personnummer",
                 "repo": "java",
@@ -272,7 +272,7 @@
                 "id": 107791379,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-10-25T16:23:02Z",
+                "last_commit": "2026-10-26T15:11:11Z",
                 "open_issues": 1,
                 "owner": "personnummer",
                 "repo": "ruby",
@@ -1975,7 +1975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:37:51.884Z",
+    "last_updated": "2026-10-26T19:55:03.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things to use when coding for the Swedish market.",
