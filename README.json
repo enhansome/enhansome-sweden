@@ -1975,7 +1975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T19:31:36.305Z",
+    "last_updated": "2026-10-29T19:36:20.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things to use when coding for the Swedish market.",
@@ -1984,7 +1984,7 @@
       "language": "Shell",
       "license": "NOASSERTION",
       "last_commit": "2026-04-21T07:51:35Z",
-      "open_issues": 10,
+      "open_issues": 11,
       "owner": "buren",
       "repo": "awesome-sweden",
       "stars": 210,
