@@ -145,8 +145,8 @@
                 "id": 27970772,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-11T19:38:55Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-12T00:51:55Z",
+                "open_issues": 0,
                 "owner": "personnummer",
                 "repo": "php",
                 "stars": 33,
@@ -219,7 +219,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-11T12:49:42Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "personnummer",
                 "repo": "python",
                 "stars": 13,
@@ -1975,7 +1975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T21:23:14.131Z",
+    "last_updated": "2026-11-12T21:27:15.664Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things to use when coding for the Swedish market.",

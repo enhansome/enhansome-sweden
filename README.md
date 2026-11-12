@@ -33,10 +33,10 @@ A curated list of awesome things to use when coding for the Swedish market.
 * Validate Swedish Personal Identity Number (personnummer / SSN)
   * [JavaScript](https://github.com/personnummer/js) ⭐ 58 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-11
   * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Identity) ⭐ 58 | 🐛 18 | 🌐 F# | 📅 2026-04-10 (Also parses and normalizes the Personal Identity Number)
-  * [PHP](https://github.com/personnummer/php) ⭐ 33 | 🐛 1 | 🌐 PHP | 📅 2026-11-11
+  * [PHP](https://github.com/personnummer/php) ⭐ 33 | 🐛 0 | 🌐 PHP | 📅 2026-11-12
   * [Ruby](https://github.com/c7/personnummer) ⭐ 21 | 🐛 0 | 🌐 Ruby | 📅 2020-03-01 (well tested)
   * [PHP](https://github.com/byrokrat/id) ⭐ 15 | 🐛 1 | 🌐 PHP | 📅 2021-01-03
-  * [Python](https://github.com/personnummer/python) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2026-11-11
+  * [Python](https://github.com/personnummer/python) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-11-11
   * [Java](https://github.com/personnummer/java) ⭐ 11 | 🐛 1 | 🌐 Java | 📅 2026-11-11
   * [Ruby](https://github.com/personnummer/ruby) ⭐ 6 | 🐛 2 | 🌐 Ruby | 📅 2026-11-11
   * [Swift](https://github.com/personnummer/swift) ⭐ 4 | 🐛 2 | 🌐 Swift | 📅 2026-10-19
@@ -196,7 +196,7 @@ Contributions, feedback and suggestions are very welcome.
 
 **Before you start, make sure**
 
-1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 535,299 | 🐛 103 | 📅 2026-09-02)
+1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 535,894 | 🐛 103 | 📅 2026-09-02)
 2. The library is not already added to this list
 3. The library is somewhat stable
 
@@ -220,4 +220,4 @@ then
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
