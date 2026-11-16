@@ -31,7 +31,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 ## People
 
 * Validate Swedish Personal Identity Number (personnummer / SSN)
-  * [JavaScript](https://github.com/personnummer/js) ⭐ 58 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-13
+  * [JavaScript](https://github.com/personnummer/js) ⭐ 58 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-16
   * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Identity) ⭐ 58 | 🐛 18 | 🌐 F# | 📅 2026-04-10 (Also parses and normalizes the Personal Identity Number)
   * [PHP](https://github.com/personnummer/php) ⭐ 33 | 🐛 0 | 🌐 PHP | 📅 2026-11-12
   * [Ruby](https://github.com/c7/personnummer) ⚠️ Archived (well tested)
@@ -65,15 +65,15 @@ A curated list of awesome things to use when coding for the Swedish market.
   * [Rust](https://github.com/drager/swish) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2018-12-02
   * [Go](https://github.com/frozzare/go-swish) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2024-08-21
 * Validate Swedish bank accounts
-  * [Ruby](https://github.com/barsoom/banktools-se) ⭐ 34 | 🐛 0 | 🌐 Ruby | 📅 2026-10-05
+  * [Ruby](https://github.com/barsoom/banktools-se) ⭐ 34 | 🐛 0 | 🌐 Ruby | 📅 2026-11-16
   * [JavaScript](https://github.com/brocc-ab/se-bank-account-js) ⭐ 9 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-15
   * [PHP](https://github.com/brocc-ab/se-bank-account-php) ⭐ 4 | 🐛 1 | 🌐 PHP | 📅 2026-10-15
 * Make BGC supplier payment files (a.k.a "leverantörsbetalningar")
-  * [Ruby](https://github.com/barsoom/supplier_payments) ⭐ 1 | 🐛 0 | 🌐 Ruby | 📅 2026-06-23
+  * [Ruby](https://github.com/barsoom/supplier_payments) ⭐ 1 | 🐛 0 | 🌐 Ruby | 📅 2026-11-16
 * Payments using DebiTech (DIBS)
   * [Ruby](https://github.com/barsoom/debitech) ⚠️ Archived
 * Parse and generate SIE-files (open format for accounting data)
-  * [Ruby](https://github.com/barsoom/sie) ⭐ 17 | 🐛 1 | 🌐 Ruby | 📅 2026-06-22
+  * [Ruby](https://github.com/barsoom/sie) ⭐ 17 | 🐛 1 | 🌐 Ruby | 📅 2026-11-16
 * Retrieve interest and exchange rates from the Swedish central bank
   * [Go](https://github.com/zeeraw/riksbank) ⭐ 5 | 🐛 0 | 🌐 Go | 📅 2020-11-25
 
@@ -196,7 +196,7 @@ Contributions, feedback and suggestions are very welcome.
 
 **Before you start, make sure**
 
-1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 537,405 | 🐛 104 | 📅 2026-09-02)
+1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 537,988 | 🐛 104 | 📅 2026-09-02)
 2. The library is not already added to this list
 3. The library is somewhat stable
 
@@ -220,4 +220,4 @@ then
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
