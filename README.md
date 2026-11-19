@@ -80,20 +80,20 @@ A curated list of awesome things to use when coding for the Swedish market.
 ## Authentication
 
 * Authentication using BankID
-  * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) ⭐ 241 | 🐛 21 | 🌐 C# | 📅 2026-10-19 (With authentication handler for ASP.NET)
-  * [JavaScript](https://github.com/anyfin/bankid) ⭐ 72 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-06 by [Anyfin](https://anyfin.com/)
+  * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) ⭐ 240 | 🐛 21 | 🌐 C# | 📅 2026-10-19 (With authentication handler for ASP.NET)
+  * [JavaScript](https://github.com/anyfin/bankid) ⭐ 71 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-06 by [Anyfin](https://anyfin.com/)
   * [Android](https://github.com/spacecowboy/bankid-android-sample) ⭐ 5 | 🐛 0 | 🌐 Kotlin | 📅 2019-01-30 (Sample implementation)
 * Authentication using GrandID (Svensk E-Identitet)
-  * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) ⭐ 241 | 🐛 21 | 🌐 C# | 📅 2026-10-19 (With authentication handler for ASP.NET)
+  * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) ⭐ 240 | 🐛 21 | 🌐 C# | 📅 2026-10-19 (With authentication handler for ASP.NET)
 
 ## Job market
 
 * Build a feed for Metrojobb
   * [Ruby](https://github.com/buren/metrojobb) ⭐ 1 | 🐛 2 | 🌐 Ruby | 📅 2023-11-01
 * Arbetsförmedlingen API
-  * [Ruby](https://github.com/buren/arbetsformedlingen) ⭐ 10 | 🐛 7 | 🌐 Ruby | 📅 2023-07-01
+  * [Ruby](https://github.com/buren/arbetsformedlingen) ⭐ 9 | 🐛 7 | 🌐 Ruby | 📅 2023-07-01
 * Post jobs to Arbetsförmedlingen
-  * [Ruby](https://github.com/buren/arbetsformedlingen) ⭐ 10 | 🐛 7 | 🌐 Ruby | 📅 2023-07-01
+  * [Ruby](https://github.com/buren/arbetsformedlingen) ⭐ 9 | 🐛 7 | 🌐 Ruby | 📅 2023-07-01
   * [JavaScript](https://github.com/othermachines/platsbanken-vacancy) ⭐ 1 | 🐛 1 | 🌐 JavaScript | 📅 2018-03-19
 
 ## Transportation
@@ -147,7 +147,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 * Kolada API - KPIs concerning Swedish municipalities and organizational units
   * [JavaScript](https://github.com/buren/kolada) ⭐ 6 | 🐛 1 | 🌐 JavaScript | 📅 2023-08-01
 * Polisen API
-  * [JavaScript](https://github.com/buren/polisen-api) ⭐ 1 | 🐛 1 | 🌐 JavaScript | 📅 2023-08-01 - events and police stations
+  * [JavaScript](https://github.com/buren/polisen-api) ⭐ 0 | 🐛 1 | 🌐 JavaScript | 📅 2023-08-01 - events and police stations
 * SCB API (Statistiska Centralbyrån)
   * [Ruby](https://github.com/peterhellberg/scb) ⭐ 1 | 🐛 0 | 🌐 Ruby | 📅 2013-05-13
   * [JavaScript](https://www.npmjs.com/package/scb-api)
@@ -196,7 +196,7 @@ Contributions, feedback and suggestions are very welcome.
 
 **Before you start, make sure**
 
-1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 538,992 | 🐛 104 | 📅 2026-09-02)
+1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 539,495 | 🐛 103 | 📅 2026-09-02)
 2. The library is not already added to this list
 3. The library is somewhat stable
 
@@ -220,4 +220,4 @@ then
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

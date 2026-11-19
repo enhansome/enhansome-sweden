@@ -735,7 +735,7 @@
                 "open_issues": 21,
                 "owner": "ActiveLogin",
                 "repo": "ActiveLogin.Authentication",
-                "stars": 241,
+                "stars": 240,
                 "topics": [
                   "activelogin",
                   "authentication",
@@ -762,10 +762,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-06T03:07:17Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "anyfin",
                 "repo": "bankid",
-                "stars": 72,
+                "stars": 71,
                 "topics": [
                   "bankid",
                   "cif-deposits",
@@ -820,7 +820,7 @@
                 "open_issues": 21,
                 "owner": "ActiveLogin",
                 "repo": "ActiveLogin.Authentication",
-                "stars": 241,
+                "stars": 240,
                 "topics": [
                   "activelogin",
                   "authentication",
@@ -894,7 +894,7 @@
                 "open_issues": 7,
                 "owner": "buren",
                 "repo": "arbetsformedlingen",
-                "stars": 10,
+                "stars": 9,
                 "topics": [
                   "api-client",
                   "arbetsformedlingen",
@@ -929,7 +929,7 @@
                 "open_issues": 7,
                 "owner": "buren",
                 "repo": "arbetsformedlingen",
-                "stars": 10,
+                "stars": 9,
                 "topics": [
                   "api-client",
                   "arbetsformedlingen",
@@ -1565,7 +1565,7 @@
                 "open_issues": 1,
                 "owner": "buren",
                 "repo": "polisen-api",
-                "stars": 1,
+                "stars": 0,
                 "topics": [
                   "api-client",
                   "npm-package",
@@ -1975,7 +1975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T21:53:53.828Z",
+    "last_updated": "2026-11-19T22:07:47.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things to use when coding for the Swedish market.",
@@ -1984,7 +1984,7 @@
       "language": "Shell",
       "license": "NOASSERTION",
       "last_commit": "2026-04-21T07:51:35Z",
-      "open_issues": 11,
+      "open_issues": 12,
       "owner": "buren",
       "repo": "awesome-sweden",
       "stars": 212,
