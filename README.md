@@ -43,7 +43,7 @@ A curated list of awesome things to use when coding for the Swedish market.
   * [JavaScript](https://github.com/arokor/pernr) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2018-04-07
   * [JavaScript](https://github.com/svenheden/swedish-personal-identity-number-validator) ⭐ 1 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-02
   * [Go](https://github.com/bombsimon/go-personnummer) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2022-03-22
-  * [Go](https://github.com/personnummer/go) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2026-11-11
+  * [Go](https://github.com/personnummer/go) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2026-11-20
   * Various other implementations are available under [this GitHub organization](https://github.com/personnummer), please note that some listed there are still WIP.
 * Statens personadressregister
   * [JavaScript](https://github.com/Yepstr/node-statenspersonadressregister) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2017-06-05
@@ -81,7 +81,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 
 * Authentication using BankID
   * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) ⭐ 240 | 🐛 21 | 🌐 C# | 📅 2026-10-19 (With authentication handler for ASP.NET)
-  * [JavaScript](https://github.com/anyfin/bankid) ⭐ 71 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-06 by [Anyfin](https://anyfin.com/)
+  * [JavaScript](https://github.com/anyfin/bankid) ⭐ 71 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-20 by [Anyfin](https://anyfin.com/)
   * [Android](https://github.com/spacecowboy/bankid-android-sample) ⭐ 5 | 🐛 0 | 🌐 Kotlin | 📅 2019-01-30 (Sample implementation)
 * Authentication using GrandID (Svensk E-Identitet)
   * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) ⭐ 240 | 🐛 21 | 🌐 C# | 📅 2026-10-19 (With authentication handler for ASP.NET)
@@ -196,7 +196,7 @@ Contributions, feedback and suggestions are very welcome.
 
 **Before you start, make sure**
 
-1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 539,495 | 🐛 103 | 📅 2026-09-02)
+1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 539,989 | 🐛 103 | 📅 2026-09-02)
 2. The library is not already added to this list
 3. The library is somewhat stable
 
@@ -220,4 +220,4 @@ then
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
