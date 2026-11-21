@@ -38,7 +38,7 @@ A curated list of awesome things to use when coding for the Swedish market.
   * [PHP](https://github.com/byrokrat/id) ⭐ 15 | 🐛 1 | 🌐 PHP | 📅 2021-01-03
   * [Python](https://github.com/personnummer/python) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-11-11
   * [Java](https://github.com/personnummer/java) ⭐ 11 | 🐛 1 | 🌐 Java | 📅 2026-11-17
-  * [Ruby](https://github.com/personnummer/ruby) ⭐ 6 | 🐛 0 | 🌐 Ruby | 📅 2026-11-17
+  * [Ruby](https://github.com/personnummer/ruby) ⭐ 6 | 🐛 0 | 🌐 Ruby | 📅 2026-11-21
   * [Swift](https://github.com/personnummer/swift) ⭐ 4 | 🐛 1 | 🌐 Swift | 📅 2026-11-13
   * [JavaScript](https://github.com/arokor/pernr) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2018-04-07
   * [JavaScript](https://github.com/svenheden/swedish-personal-identity-number-validator) ⭐ 1 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-02
@@ -196,7 +196,7 @@ Contributions, feedback and suggestions are very welcome.
 
 **Before you start, make sure**
 
-1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 539,989 | 🐛 103 | 📅 2026-09-02)
+1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 540,469 | 🐛 103 | 📅 2026-09-02)
 2. The library is not already added to this list
 3. The library is somewhat stable
 
@@ -220,4 +220,4 @@ then
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
