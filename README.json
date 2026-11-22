@@ -272,7 +272,7 @@
                 "id": 107791379,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-11-21T10:12:43Z",
+                "last_commit": "2026-11-22T04:55:27Z",
                 "open_issues": 0,
                 "owner": "personnummer",
                 "repo": "ruby",
@@ -1975,7 +1975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:30:02.275Z",
+    "last_updated": "2026-11-22T20:42:36.478Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things to use when coding for the Swedish market.",
