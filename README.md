@@ -4,7 +4,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 
 ## Content
 
-* :link: [Awesome Sweden Datasets](https://github.com/buren/awesome-sweden-datasets) ⭐ 31 | 🐛 5 | 🌐 Shell | 📅 2026-04-21
+* :link: [Awesome Sweden Datasets](https://github.com/buren/awesome-sweden-datasets) ⭐ 31 | 🐛 6 | 🌐 Shell | 📅 2026-04-21
 * [People](#people)
 * [Companies](#companies)
 * [Finance](#finance)
@@ -20,7 +20,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 
 :information\_source:
 
-* Looking for datasets? See [Awesome Sweden Datasets](https://github.com/buren/awesome-sweden-datasets) ⭐ 31 | 🐛 5 | 🌐 Shell | 📅 2026-04-21.
+* Looking for datasets? See [Awesome Sweden Datasets](https://github.com/buren/awesome-sweden-datasets) ⭐ 31 | 🐛 6 | 🌐 Shell | 📅 2026-04-21.
 * If you're looking to add a library please check the [contributing guide](#contributing).
 
 ## AI
@@ -31,19 +31,19 @@ A curated list of awesome things to use when coding for the Swedish market.
 ## People
 
 * Validate Swedish Personal Identity Number (personnummer / SSN)
-  * [JavaScript](https://github.com/personnummer/js) ⭐ 58 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-16
+  * [JavaScript](https://github.com/personnummer/js) ⭐ 58 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-23
   * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Identity) ⭐ 58 | 🐛 18 | 🌐 F# | 📅 2026-04-10 (Also parses and normalizes the Personal Identity Number)
   * [PHP](https://github.com/personnummer/php) ⭐ 33 | 🐛 0 | 🌐 PHP | 📅 2026-11-12
   * [Ruby](https://github.com/c7/personnummer) ⚠️ Archived (well tested)
   * [PHP](https://github.com/byrokrat/id) ⭐ 15 | 🐛 1 | 🌐 PHP | 📅 2021-01-03
-  * [Python](https://github.com/personnummer/python) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-11-11
-  * [Java](https://github.com/personnummer/java) ⭐ 11 | 🐛 1 | 🌐 Java | 📅 2026-11-17
-  * [Ruby](https://github.com/personnummer/ruby) ⭐ 6 | 🐛 0 | 🌐 Ruby | 📅 2026-11-22
+  * [Python](https://github.com/personnummer/python) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-11-23
+  * [Java](https://github.com/personnummer/java) ⭐ 11 | 🐛 0 | 🌐 Java | 📅 2026-11-23
+  * [Ruby](https://github.com/personnummer/ruby) ⭐ 6 | 🐛 1 | 🌐 Ruby | 📅 2026-11-23
   * [Swift](https://github.com/personnummer/swift) ⭐ 4 | 🐛 1 | 🌐 Swift | 📅 2026-11-13
   * [JavaScript](https://github.com/arokor/pernr) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2018-04-07
   * [JavaScript](https://github.com/svenheden/swedish-personal-identity-number-validator) ⭐ 1 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-02
   * [Go](https://github.com/bombsimon/go-personnummer) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2022-03-22
-  * [Go](https://github.com/personnummer/go) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2026-11-20
+  * [Go](https://github.com/personnummer/go) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2026-11-24
   * Various other implementations are available under [this GitHub organization](https://github.com/personnummer), please note that some listed there are still WIP.
 * Statens personadressregister
   * [JavaScript](https://github.com/Yepstr/node-statenspersonadressregister) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2017-06-05
@@ -192,11 +192,11 @@ Libraries and other things we wished existed or haven't heard of yet.
 
 Contributions, feedback and suggestions are very welcome.
 
-:information\_source: Looking to add a dataset? See [Awesome Sweden Datasets](https://github.com/buren/awesome-sweden-datasets) ⭐ 31 | 🐛 5 | 🌐 Shell | 📅 2026-04-21.
+:information\_source: Looking to add a dataset? See [Awesome Sweden Datasets](https://github.com/buren/awesome-sweden-datasets) ⭐ 31 | 🐛 6 | 🌐 Shell | 📅 2026-04-21.
 
 **Before you start, make sure**
 
-1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 541,033 | 🐛 103 | 📅 2026-09-02)
+1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 541,694 | 🐛 103 | 📅 2026-09-02)
 2. The library is not already added to this list
 3. The library is somewhat stable
 
@@ -220,4 +220,4 @@ then
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
