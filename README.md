@@ -31,14 +31,14 @@ A curated list of awesome things to use when coding for the Swedish market.
 ## People
 
 * Validate Swedish Personal Identity Number (personnummer / SSN)
-  * [JavaScript](https://github.com/personnummer/js) ⭐ 58 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-23
+  * [JavaScript](https://github.com/personnummer/js) ⭐ 58 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-24
   * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Identity) ⭐ 58 | 🐛 18 | 🌐 F# | 📅 2026-04-10 (Also parses and normalizes the Personal Identity Number)
   * [PHP](https://github.com/personnummer/php) ⭐ 33 | 🐛 0 | 🌐 PHP | 📅 2026-11-12
   * [Ruby](https://github.com/c7/personnummer) ⚠️ Archived (well tested)
   * [PHP](https://github.com/byrokrat/id) ⭐ 15 | 🐛 1 | 🌐 PHP | 📅 2021-01-03
   * [Python](https://github.com/personnummer/python) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-11-23
   * [Java](https://github.com/personnummer/java) ⭐ 11 | 🐛 0 | 🌐 Java | 📅 2026-11-23
-  * [Ruby](https://github.com/personnummer/ruby) ⭐ 6 | 🐛 1 | 🌐 Ruby | 📅 2026-11-23
+  * [Ruby](https://github.com/personnummer/ruby) ⭐ 6 | 🐛 0 | 🌐 Ruby | 📅 2026-11-24
   * [Swift](https://github.com/personnummer/swift) ⭐ 4 | 🐛 1 | 🌐 Swift | 📅 2026-11-13
   * [JavaScript](https://github.com/arokor/pernr) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2018-04-07
   * [JavaScript](https://github.com/svenheden/swedish-personal-identity-number-validator) ⭐ 1 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-02
@@ -196,7 +196,7 @@ Contributions, feedback and suggestions are very welcome.
 
 **Before you start, make sure**
 
-1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 541,694 | 🐛 103 | 📅 2026-09-02)
+1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 542,313 | 🐛 103 | 📅 2026-09-02)
 2. The library is not already added to this list
 3. The library is somewhat stable
 
