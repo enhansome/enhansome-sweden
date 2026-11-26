@@ -76,12 +76,14 @@ A curated list of awesome things to use when coding for the Swedish market.
   * [Ruby](https://github.com/barsoom/sie) ⭐ 17 | 🐛 1 | 🌐 Ruby | 📅 2026-11-16
 * Retrieve interest and exchange rates from the Swedish central bank
   * [Go](https://github.com/zeeraw/riksbank) ⭐ 5 | 🐛 0 | 🌐 Go | 📅 2020-11-25
+* Validate Peppol BIS Billing 3.0 e-invoices (the EN 16931 format Swedish public-sector buyers receive via Peppol)
+  * [Node.js CLI / GitHub Action](https://github.com/kalmwerk/peppol-ubl-check) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-20 (offline; includes Peppol's organisationsnummer check, not the Swedish SE-R rules)
 
 ## Authentication
 
 * Authentication using BankID
   * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) ⭐ 240 | 🐛 21 | 🌐 C# | 📅 2026-10-19 (With authentication handler for ASP.NET)
-  * [JavaScript](https://github.com/anyfin/bankid) ⭐ 71 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-20 by [Anyfin](https://anyfin.com/)
+  * [JavaScript](https://github.com/anyfin/bankid) ⭐ 71 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-26 by [Anyfin](https://anyfin.com/)
   * [Android](https://github.com/spacecowboy/bankid-android-sample) ⭐ 5 | 🐛 0 | 🌐 Kotlin | 📅 2019-01-30 (Sample implementation)
 * Authentication using GrandID (Svensk E-Identitet)
   * [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) ⭐ 240 | 🐛 21 | 🌐 C# | 📅 2026-10-19 (With authentication handler for ASP.NET)
@@ -172,7 +174,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 * Hemnet
   * [PHP WordPress plugin](https://github.com/bombsimon/hemnet-plugin) ⚠️ Archived
 * Blocket
-  * [Python](https://github.com/dunderrrrrr/blocket_api) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2026-11-10
+  * [Python](https://github.com/dunderrrrrr/blocket_api) ⭐ 49 | 🐛 0 | 🌐 Python | 📅 2026-11-10
 
 ## Wish list
 
@@ -196,7 +198,7 @@ Contributions, feedback and suggestions are very welcome.
 
 **Before you start, make sure**
 
-1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 542,807 | 🐛 103 | 📅 2026-09-02)
+1. That it's directly related to building applications for the Swedish market (there are plenty of other awesome lists for other types of tools, [here](https://github.com/sindresorhus/awesome) ⭐ 543,393 | 🐛 103 | 📅 2026-09-02)
 2. The library is not already added to this list
 3. The library is somewhat stable
 
@@ -220,4 +222,4 @@ then
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
